@@ -18,10 +18,11 @@ var convertXML2JSON = false;
 switch(process.argv[2]){
 	case undefined:
 	case "--help":
-		//TODO print help message
+		console.log("Usage: node dump_iau_nomenclature.js [OPTIONS]\nOPTIONS: --xml --json --csv --tsv --kml --help --version");
 		process.exit();
 		break;
 	case "--version":
+		console.log("iau_nomenclature Version 1.0.0");
 		process.exit();
 		break;
 	case "--xml":
@@ -42,7 +43,7 @@ switch(process.argv[2]){
 		break;
 	default:
 		console.log("Unknown option "+process.argv[2]);
-		//TODO print help message
+		console.log("Usage: node dump_iau_nomenclature.js [OPTIONS]\nOPTIONS: --xml --json --csv --tsv --kml --help --version");
 		break;
 }
 
@@ -58,7 +59,7 @@ var OPT = {
 };
 
 const PATH_PREFIX = "/nomenclature/SearchResults;jsessionid=";
-//TODO keep this updated
+//TODO keep this updated, try to get from github nad if it fails default to local version
 const TARGETS = [
 	//Mercury System
 	"MERCURY",
@@ -115,16 +116,6 @@ const TARGETS = [
 		"PLUTO",
 		"CHARON"
 ];
-
-//TODO first goto any page, this will grant you a jsessionid
-	//find the id and store it. it must be appended to allr equests as: ;jsessionid={ID}
-
-/*for(var i=0; i<TARGETS.length; i++){
-	OPT.path = PATH_PREFIX+TARGETS[i];
-	var req = https.request(OPT, (res) => {
-		//this will only fetch the page once i have that i need the xml link
-	});
-}*/
 
 getJSessionId( (id) => {
 	var options = {
