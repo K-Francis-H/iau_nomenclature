@@ -1,0 +1,19 @@
+{
+	"name":"iau_nomenclature",
+	"version":"v1.0.0",
+	"description":"A script for fetching all named geologic features on heavenly bodies",
+	"homepage":"https://github.com/K-Francis-H/iau_nomenclature/#readme",
+	"bugs":{
+		"url":"https://github.com/K-Francis-H/iau_nomenclature/issues"
+	},
+	"license":"GPL-3.0-or-later",
+	"author":{
+		"name":"Kyle Harrity"
+	},
+	"dependencies":{
+		"xml-to-json-stream":"*"
+	},
+	"scripts":{
+		"start":"node dump-iau-nomenclature.js"
+	}
+}
