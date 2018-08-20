@@ -1,1 +1,7 @@
 node_modules/*
+*.json
+*.xml
+*.csv
+*.tsv
+*.kml
+!package.json

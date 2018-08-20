@@ -47,17 +47,6 @@ switch(process.argv[2]){
 		break;
 }
 
-
-
-var OPT = {
-	hostname : "https://planetarynames.wr.usgs.gov",
-	port : 443,
-	method : "POST",
-	headers : {
-		"Content-type" : "application/x-www-form-urlencoded"
-	}
-};
-
 const PATH_PREFIX = "/nomenclature/SearchResults;jsessionid=";
 //TODO keep this updated, try to get from github nad if it fails default to local version
 const TARGETS = [
