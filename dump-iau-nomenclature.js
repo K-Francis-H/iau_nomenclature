@@ -61,6 +61,7 @@ const TARGETS = [
 	"PHOBOS",
 	"DEIMOS",
 	//Asteroid Belt
+	"BENNU",
 	"CERES",
 	"DACTYL",
 	"EROS",
@@ -69,6 +70,7 @@ const TARGETS = [
 	"ITOKAWA",
 	"LUTETIA",
 	"MATHILDE",
+	"RYUGU",
 	"STEINS",
 	"VESTA",
 	//Jupiter System
@@ -126,7 +128,6 @@ getJSessionId( (id) => {
 					resBody += data.toString();
 				});
 				res.on("end", () => {
-					//TODO write resBody to file
 					if(displayType === "XML" && convertXML2JSON){
 						xml2json.xmlToJson(resBody, (err, json) =>{
 							if(err){
