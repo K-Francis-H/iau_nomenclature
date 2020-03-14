@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Hilairea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Epimetheus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2502">http://planetarynames.wr.usgs.gov/Feature/2502</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pollux</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Epimetheus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4783">http://planetarynames.wr.usgs.gov/Feature/4783</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

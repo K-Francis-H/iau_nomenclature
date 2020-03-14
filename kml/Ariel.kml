@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Abans</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/7">http://planetarynames.wr.usgs.gov/Feature/7</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.69999999999999,-15.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agape</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/80">http://planetarynames.wr.usgs.gov/Feature/80</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-23.5,-46.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ataksak</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/446">http://planetarynames.wr.usgs.gov/Feature/446</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-135.7,-53.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Befana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/661">http://planetarynames.wr.usgs.gov/Feature/661</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>31.9,-17.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Berylune</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/715">http://planetarynames.wr.usgs.gov/Feature/715</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-32.10000000000002,-22.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Brownie Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 343.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/895">http://planetarynames.wr.usgs.gov/Feature/895</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-22.399999999999977,-16.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Deive</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1462">http://planetarynames.wr.usgs.gov/Feature/1462</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>23.0,-22.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Djadek</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1555">http://planetarynames.wr.usgs.gov/Feature/1555</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.9,-12.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Domovoy</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 71.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1570">http://planetarynames.wr.usgs.gov/Feature/1570</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.30000000000001,-71.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Finvara</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1961">http://planetarynames.wr.usgs.gov/Feature/1961</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.0,-15.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gwyn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2297">http://planetarynames.wr.usgs.gov/Feature/2297</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>22.5,-77.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Huon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2587">http://planetarynames.wr.usgs.gov/Feature/2587</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>33.7,-37.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kachina Chasmata</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 622.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2879">http://planetarynames.wr.usgs.gov/Feature/2879</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-114.0,-33.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kewpie Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 467.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2996">http://planetarynames.wr.usgs.gov/Feature/2996</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.10000000000002,-28.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Korrigan Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 365.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3093">http://planetarynames.wr.usgs.gov/Feature/3093</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.5,-27.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kra Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 142.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3110">http://planetarynames.wr.usgs.gov/Feature/3110</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-5.800000000000011,-32.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laica</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3236">http://planetarynames.wr.usgs.gov/Feature/3236</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.4,-21.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Leprechaun Vallis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 328.0km<br/>
+            FeatureType: Vallis, valles<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3355">http://planetarynames.wr.usgs.gov/Feature/3355</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.2,-10.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mab</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3551">http://planetarynames.wr.usgs.gov/Feature/3551</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.800000000000011,-38.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Melusine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3823">http://planetarynames.wr.usgs.gov/Feature/3823</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.9,-52.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oonagh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4471">http://planetarynames.wr.usgs.gov/Feature/4471</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-115.6,-21.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pixie Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 278.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4744">http://planetarynames.wr.usgs.gov/Feature/4744</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.1,-20.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rima</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5036">http://planetarynames.wr.usgs.gov/Feature/5036</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-99.19999999999999,-18.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sprite Vallis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 305.0km<br/>
+            FeatureType: Vallis, valles<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5671">http://planetarynames.wr.usgs.gov/Feature/5671</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.0,-14.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sylph Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 349.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5790">http://planetarynames.wr.usgs.gov/Feature/5790</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.0,-48.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yangoor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ariel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6638">http://planetarynames.wr.usgs.gov/Feature/6638</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.30000000000001,-68.7</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

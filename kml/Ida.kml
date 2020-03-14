@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Afon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.800000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/75">http://planetarynames.wr.usgs.gov/Feature/75</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-6.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Atea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/450">http://planetarynames.wr.usgs.gov/Feature/450</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>18.9,-5.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Azzurra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.60000038km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/527">http://planetarynames.wr.usgs.gov/Feature/527</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-142.8,30.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bilemot</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/744">http://planetarynames.wr.usgs.gov/Feature/744</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>29.2,-27.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Castellana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.19999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1049">http://planetarynames.wr.usgs.gov/Feature/1049</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-24.80000000000001,-13.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Choukoutien</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1199">http://planetarynames.wr.usgs.gov/Feature/1199</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>23.6,12.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fingal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1956">http://planetarynames.wr.usgs.gov/Feature/1956</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>39.9,-13.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kartchner</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.899999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2939">http://planetarynames.wr.usgs.gov/Feature/2939</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.0,-7.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kazumura</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2973">http://planetarynames.wr.usgs.gov/Feature/2973</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>41.1,-32.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lascaux</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.8000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3284">http://planetarynames.wr.usgs.gov/Feature/3284</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>161.2,0.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lechuguilla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3325">http://planetarynames.wr.usgs.gov/Feature/3325</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-2.8999999999999773,7.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mammoth</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.1999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3620">http://planetarynames.wr.usgs.gov/Feature/3620</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-179.7,-18.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Manjang</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3632">http://planetarynames.wr.usgs.gov/Feature/3632</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.5,-28.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Orgnac</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.6000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4489">http://planetarynames.wr.usgs.gov/Feature/4489</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-157.3,-6.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Padirac</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.89999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4544">http://planetarynames.wr.usgs.gov/Feature/4544</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.2,-4.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Palisa Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4557">http://planetarynames.wr.usgs.gov/Feature/4557</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>34.0,-23.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Peacock</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.200000003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4626">http://planetarynames.wr.usgs.gov/Feature/4626</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>52.0,-2.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pola Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4778">http://planetarynames.wr.usgs.gov/Feature/4778</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.0,-11.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Postojna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4809">http://planetarynames.wr.usgs.gov/Feature/4809</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-0.10000000000002274,-42.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sterkfontein</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.69999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5700">http://planetarynames.wr.usgs.gov/Feature/5700</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>54.1,-4.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Stiffe</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5708">http://planetarynames.wr.usgs.gov/Feature/5708</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>126.5,-27.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Townsend Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6071">http://planetarynames.wr.usgs.gov/Feature/6071</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>30.0,25.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Undara</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6222">http://planetarynames.wr.usgs.gov/Feature/6222</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>113.8,2.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vienna Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6382">http://planetarynames.wr.usgs.gov/Feature/6382</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>2.0,8.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Viento</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.60000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ida<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6383">http://planetarynames.wr.usgs.gov/Feature/6383</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-16.100000000000023,12.2</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

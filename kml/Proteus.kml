@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Pharos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Proteus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4684">http://planetarynames.wr.usgs.gov/Feature/4684</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

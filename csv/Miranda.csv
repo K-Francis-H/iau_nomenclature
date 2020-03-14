@@ -1,0 +1,25 @@
+
+
+
+
+
+Feature_Name,Target,Diameter,Center_Latitude,Center_Longitude,Coordinate_System,Approval_Status,Approval_Date,Origin,
+"Alonso","Miranda",25,-44,352.6,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","King of Naples in ""The Tempest.""",
+"Arden Corona","Miranda",318,-29.1,73.7,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Forest, location of ""As You Like It.""",
+"Argier Rupes","Miranda",141,-43.2,322.8,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of earlier action in ""The Tempest.""",
+"Dunsinane Regio","Miranda",244,-31.5,11.9,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of castle where Macbeth was defeated.",
+"Elsinore Corona","Miranda",323,-24.8,257.1,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of Hamlet's castle.",
+"Ephesus Regio","Miranda",225,-15,250,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Home of twins and setting for ""The Comedy of Errors.""",
+"Ferdinand","Miranda",17,-34.8,202.1,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Son of King of Naples; loves Miranda in ""The Tempest.""",
+"Francisco","Miranda",14,-73.2,236,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","A lord of Naples in ""The Tempest.""",
+"Gonzalo","Miranda",11,-11.4,77,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Honest old counselor of Naples in ""The Tempest.""",
+"Inverness Corona","Miranda",234,-66.9,325.7,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of Macbeth's castle.",
+"Mantua Regio","Miranda",399,-39.6,180.2,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of part of ""Two Gentlemen From Verona.""",
+"Naples Sulcus","Miranda",260,-32,260,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Destination in ""The Tempest.""",
+"Prospero","Miranda",21,-32.9,329.9,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Rightful Duke of Mila in ""The Tempest.""",
+"Sicilia Regio","Miranda",174,-30,317.2,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Location of ""Winter's Tale.""",
+"Stephano","Miranda",16,-41.1,234.1,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","A drunken butler in ""The Tempest.""",
+"Syracusa Sulcus","Miranda",40,-15,293,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Home of twins in the ""Comedy of Errors.""",
+"Trinculo","Miranda",11,-63.7,163.4,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","A jester in ""The Tempest.""",
+"Verona Rupes","Miranda",116,-18.3,347.8,"Planetocentric  +East  0 - 360","Approved","1988-01-01 00:00:00.0","Where Romeo and Juliet lived.",
+

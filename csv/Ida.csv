@@ -1,0 +1,32 @@
+
+
+
+
+
+Feature_Name,Target,Diameter,Center_Latitude,Center_Longitude,Coordinate_System,Approval_Status,Approval_Date,Origin,
+"Afon","Ida",0.8,-6.5,0,"Planetocentric  +East  0 - 360","Approved","1994-01-01 00:00:00.0","Cave in Russia.",
+"Atea","Ida",2,-5.7,18.9,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in the Muller Range of Papua New Guinea.",
+"Azzurra","Ida",9.6,30.5,217.2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Flooded cave (known as the Blue Grotto) on the island of Capri in southern Italy.",
+"Bilemot","Ida",1.8,-27.8,29.2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Lava tube in the Republic of Korea.",
+"Castellana","Ida",5.2,-13.4,335.2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in Puglia region, Italy.",
+"Choukoutien","Ida",1.1,12.8,23.6,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Site where Peking Man was discovered.",
+"Fingal","Ida",1.5,-13.2,39.9,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in the Hebrides.",
+"Kartchner","Ida",0.9,-7,179,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in Arizona.",
+"Kazumura","Ida",2.1,-32,41.1,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Lava tube in Hawaii.",
+"Lascaux","Ida",11.8,0.8,161.2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in France noted for its prehistoric paintings.",
+"Lechuguilla","Ida",1.5,7.9,357.1,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in Carlsbad National Park, New Mexico.",
+"Mammoth","Ida",10.2,-18.3,180.3,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Longest limestone cavern known on Earth.",
+"Manjang","Ida",1,-28.3,90.5,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Lava tube in the Republic of Korea.",
+"Orgnac","Ida",10.6,-6.3,202.7,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in France.",
+"Padirac","Ida",1.9,-4.3,5.2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave with underground river in France.",
+"Palisa Regio","Ida",23,-23,34,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Johann; Austrian astronomer, discovered Ida (1848-1925).",
+"Peacock","Ida",0.2,-2,52,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in Florida, USA.",
+"Pola Regio","Ida",8,-11,184,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Place where Palisa (discoverer of Ida) observed.",
+"Postojna","Ida",6,-42.9,359.9,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Large cave in Slovenia.",
+"Sterkfontein","Ida",4.7,-4.1,54.1,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Cave in South Africa.",
+"Stiffe","Ida",1.5,-27.9,126.5,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Karst cave in Sulmona, Italy.",
+"Townsend Dorsum","Ida",40,25,30,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Tim E.; Galileo imaging team member (d. 1989).",
+"Undara","Ida",8.5,2,113.8,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Lava tube from Undara Volcano, North Queensland, Australia.",
+"Vienna Regio","Ida",13,8,2,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Where Palisa discovered Ida.",
+"Viento","Ida",1.6,12.2,343.9,"Planetocentric  +East  0 - 360","Approved","1997-01-01 00:00:00.0","Lava tube in Spain.",
+

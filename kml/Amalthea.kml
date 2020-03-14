@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Gaea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Amalthea<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2053">http://planetarynames.wr.usgs.gov/Feature/2053</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-90.0,-80.00000000001539</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ida Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Amalthea<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2646">http://planetarynames.wr.usgs.gov/Feature/2646</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-175.0,19.999999999996636</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lyctos Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Amalthea<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3528">http://planetarynames.wr.usgs.gov/Feature/3528</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-170.0,-19.999999999996636</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 100.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Amalthea<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4569">http://planetarynames.wr.usgs.gov/Feature/4569</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.0,54.99999999998053</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

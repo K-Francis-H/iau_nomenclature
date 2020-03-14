@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Agate</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14988">http://planetarynames.wr.usgs.gov/Feature/14988</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>1.8,57.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alexandrite</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.310000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14984">http://planetarynames.wr.usgs.gov/Feature/14984</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>20.7,-7.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Almandine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.519999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14982">http://planetarynames.wr.usgs.gov/Feature/14982</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>53.8,29.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amazonite</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.469999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14979">http://planetarynames.wr.usgs.gov/Feature/14979</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>75.6,9.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amethyst</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.449999988km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14989">http://planetarynames.wr.usgs.gov/Feature/14989</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-16.80000000000001,28.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aquamarine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.370000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14977">http://planetarynames.wr.usgs.gov/Feature/14977</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>120.3,7.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Chernykh Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.5km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14999">http://planetarynames.wr.usgs.gov/Feature/14999</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>60.0,-20.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Chrysoberyl</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.54999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14983">http://planetarynames.wr.usgs.gov/Feature/14983</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>29.6,-2.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Citrine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.610000014km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14990">http://planetarynames.wr.usgs.gov/Feature/14990</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-19.399999999999977,13.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Diamond</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14997">http://planetarynames.wr.usgs.gov/Feature/14997</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>13.4,-54.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Emerald</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.519999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14976">http://planetarynames.wr.usgs.gov/Feature/14976</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>139.3,-3.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Garnet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.389999986km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14992">http://planetarynames.wr.usgs.gov/Feature/14992</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-21.69999999999999,-8.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jade</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.25999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14994">http://planetarynames.wr.usgs.gov/Feature/14994</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-24.69999999999999,-18.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lapis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.439999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14996">http://planetarynames.wr.usgs.gov/Feature/14996</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.30000000000001,-31.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Malachite</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.469999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14981">http://planetarynames.wr.usgs.gov/Feature/14981</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>49.9,11.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Obsidian</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.50999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14980">http://planetarynames.wr.usgs.gov/Feature/14980</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>43.6,-10.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Onyx</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14987">http://planetarynames.wr.usgs.gov/Feature/14987</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.9,10.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Opal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14991">http://planetarynames.wr.usgs.gov/Feature/14991</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-22.19999999999999,1.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Peridot</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.270000011km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14995">http://planetarynames.wr.usgs.gov/Feature/14995</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-24.0,-25.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sapphire</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.600000024km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14985">http://planetarynames.wr.usgs.gov/Feature/14985</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>31.3,-31.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Topaz</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.649999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14986">http://planetarynames.wr.usgs.gov/Feature/14986</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-7.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tourmaline</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.219999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14998">http://planetarynames.wr.usgs.gov/Feature/14998</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.399999999999977,-20.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Turquoise</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.469999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14978">http://planetarynames.wr.usgs.gov/Feature/14978</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>113.4,-31.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zircon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.76999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Steins<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14993">http://planetarynames.wr.usgs.gov/Feature/14993</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-25.0,-13.5</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Aix</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.600000024km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/120">http://planetarynames.wr.usgs.gov/Feature/120</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-160.3,47.900000000091794</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alupka</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/210">http://planetarynames.wr.usgs.gov/Feature/210</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.0,64.9999999999847</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Baden-Baden</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/549">http://planetarynames.wr.usgs.gov/Feature/549</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-55.0,45.999999999956366</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Badgastein</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/550">http://planetarynames.wr.usgs.gov/Feature/550</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-3.0,25.000000000015987</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bagnoles</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/555">http://planetarynames.wr.usgs.gov/Feature/555</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.0,55.000000000064055</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bath</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.899999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/634">http://planetarynames.wr.usgs.gov/Feature/634</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-9.699999999999989,13.39999999999287</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Beppu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.600000024km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/696">http://planetarynames.wr.usgs.gov/Feature/696</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-58.39999999999998,3.8999999999992623</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Brookton</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/892">http://planetarynames.wr.usgs.gov/Feature/892</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.30000000000001,27.69999999999765</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Calistoga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/973">http://planetarynames.wr.usgs.gov/Feature/973</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-2.0,30.000000000014293</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Carlsbad</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1020">http://planetarynames.wr.usgs.gov/Feature/1020</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-88.80000000000001,29.69999999998648</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Charax</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.899999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1147">http://planetarynames.wr.usgs.gov/Feature/1147</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,8.599999999997722</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dunne Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1665">http://planetarynames.wr.usgs.gov/Feature/1665</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-15.0,14.999999999999364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Helwan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2443">http://planetarynames.wr.usgs.gov/Feature/2443</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.9,22.400000000013183</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ixtapan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.699999988km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2768">http://planetarynames.wr.usgs.gov/Feature/2768</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-86.89999999999998,11.89999999998665</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Katsiveli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2961">http://planetarynames.wr.usgs.gov/Feature/2961</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.0,55.000000000064055</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Krynica</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3129">http://planetarynames.wr.usgs.gov/Feature/3129</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.0,49.000000000006594</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lisdoonvarna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3423">http://planetarynames.wr.usgs.gov/Feature/3423</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>1.9,16.499999999996593</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Loutraki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3485">http://planetarynames.wr.usgs.gov/Feature/3485</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-140.0,41.99999999989994</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mandal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.100000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3624">http://planetarynames.wr.usgs.gov/Feature/3624</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-46.5,23.50000000001142</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Manikaran</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3630">http://planetarynames.wr.usgs.gov/Feature/3630</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-155.0,62.00000000003632</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Marienbad</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.600000024km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3708">http://planetarynames.wr.usgs.gov/Feature/3708</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-81.80000000000001,35.40000000000415</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Miskhor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3926">http://planetarynames.wr.usgs.gov/Feature/3926</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.89999999999998,14.999999999999364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Moree</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.699999988km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4032">http://planetarynames.wr.usgs.gov/Feature/4032</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.4,15.100000000004213</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Neujmin Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4224">http://planetarynames.wr.usgs.gov/Feature/4224</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.0,2.0000000000014726</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ramlösa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.699999988km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4937">http://planetarynames.wr.usgs.gov/Feature/4937</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.899999999999977,14.999999999999364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rio Hondo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.600000024km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5152">http://planetarynames.wr.usgs.gov/Feature/5152</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.69999999999999,31.700000000008664</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rotorua</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5201">http://planetarynames.wr.usgs.gov/Feature/5201</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.69999999999999,18.80000000000909</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Saratoga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5324">http://planetarynames.wr.usgs.gov/Feature/5324</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.0,50.00000000003886</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Spa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.60000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5661">http://planetarynames.wr.usgs.gov/Feature/5661</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-152.0,51.49999999995863</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tang-Shan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5852">http://planetarynames.wr.usgs.gov/Feature/5852</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>104.0,59.000000000044764</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yalova</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6631">http://planetarynames.wr.usgs.gov/Feature/6631</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-10.0,29.00000000000557</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yalta</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.39999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6632">http://planetarynames.wr.usgs.gov/Feature/6632</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>98.7,57.6000000000149</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yeates Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6647">http://planetarynames.wr.usgs.gov/Feature/6647</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.0,64.9999999999847</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zohar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Gaspra<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6748">http://planetarynames.wr.usgs.gov/Feature/6748</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.0,22.99999999998656</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Antony</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/300">http://planetarynames.wr.usgs.gov/Feature/300</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>65.4,-27.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Caesar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 76.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/957">http://planetarynames.wr.usgs.gov/Feature/957</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>61.1,-26.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Coriolanus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 120.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1312">http://planetarynames.wr.usgs.gov/Feature/1312</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-14.800000000000011,-11.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Falstaff</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 124.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1905">http://planetarynames.wr.usgs.gov/Feature/1905</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.0,-22.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hamlet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 206.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2340">http://planetarynames.wr.usgs.gov/Feature/2340</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.4,-46.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lear</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 126.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3318">http://planetarynames.wr.usgs.gov/Feature/3318</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>31.5,-5.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Macbeth</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 203.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3552">http://planetarynames.wr.usgs.gov/Feature/3552</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>112.5,-58.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mommur Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 537.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3958">http://planetarynames.wr.usgs.gov/Feature/3958</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-36.5,-16.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Othello</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 114.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4521">http://planetarynames.wr.usgs.gov/Feature/4521</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>42.9,-66.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Romeo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 159.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Oberon<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5176">http://planetarynames.wr.usgs.gov/Feature/5176</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>89.4,-28.7</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

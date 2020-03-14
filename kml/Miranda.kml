@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Alonso</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/200">http://planetarynames.wr.usgs.gov/Feature/200</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.399999999999977,-44.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arden Corona</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 318.0km<br/>
+            FeatureType: Corona, coronae<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/353">http://planetarynames.wr.usgs.gov/Feature/353</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>73.7,-29.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Argier Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 141.0km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/365">http://planetarynames.wr.usgs.gov/Feature/365</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-37.19999999999999,-43.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dunsinane Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 244.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1667">http://planetarynames.wr.usgs.gov/Feature/1667</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>11.9,-31.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elsinore Corona</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 323.0km<br/>
+            FeatureType: Corona, coronae<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1776">http://planetarynames.wr.usgs.gov/Feature/1776</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-102.89999999999998,-24.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ephesus Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 225.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1814">http://planetarynames.wr.usgs.gov/Feature/1814</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-110.0,-15.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ferdinand</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1938">http://planetarynames.wr.usgs.gov/Feature/1938</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-157.9,-34.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Francisco</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2011">http://planetarynames.wr.usgs.gov/Feature/2011</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-124.0,-73.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gonzalo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2220">http://planetarynames.wr.usgs.gov/Feature/2220</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>77.0,-11.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Inverness Corona</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 234.0km<br/>
+            FeatureType: Corona, coronae<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2704">http://planetarynames.wr.usgs.gov/Feature/2704</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-34.30000000000001,-66.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mantua Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 399.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3642">http://planetarynames.wr.usgs.gov/Feature/3642</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-179.8,-39.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Naples Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 260.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4150">http://planetarynames.wr.usgs.gov/Feature/4150</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-100.0,-32.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Prospero</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4848">http://planetarynames.wr.usgs.gov/Feature/4848</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.100000000000023,-32.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sicilia Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 174.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5515">http://planetarynames.wr.usgs.gov/Feature/5515</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-42.80000000000001,-30.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Stephano</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5699">http://planetarynames.wr.usgs.gov/Feature/5699</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-125.9,-41.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Syracusa Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5792">http://planetarynames.wr.usgs.gov/Feature/5792</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.0,-15.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Trinculo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6084">http://planetarynames.wr.usgs.gov/Feature/6084</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>163.4,-63.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Verona Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 116.0km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Miranda<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6359">http://planetarynames.wr.usgs.gov/Feature/6359</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.199999999999989,-18.3</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

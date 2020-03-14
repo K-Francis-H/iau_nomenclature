@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Alberich</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 52.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/163">http://planetarynames.wr.usgs.gov/Feature/163</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>42.2,-33.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1955">http://planetarynames.wr.usgs.gov/Feature/1955</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.3,-37.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gob</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 88.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2196">http://planetarynames.wr.usgs.gov/Feature/2196</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>27.8,-12.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kanaloa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 86.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2912">http://planetarynames.wr.usgs.gov/Feature/2912</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-14.300000000000011,-10.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Malingee</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 164.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3608">http://planetarynames.wr.usgs.gov/Feature/3608</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>13.9,-22.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Minepa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3909">http://planetarynames.wr.usgs.gov/Feature/3909</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.2,-42.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Peri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4657">http://planetarynames.wr.usgs.gov/Feature/4657</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>4.3,-9.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Setibos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5443">http://planetarynames.wr.usgs.gov/Feature/5443</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-13.699999999999989,-30.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Skynd</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5595">http://planetarynames.wr.usgs.gov/Feature/5595</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-28.30000000000001,-1.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vuver</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 98.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6460">http://planetarynames.wr.usgs.gov/Feature/6460</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.39999999999998,-4.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wokolo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 208.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6568">http://planetarynames.wr.usgs.gov/Feature/6568</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>1.8,-30.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wunda</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 131.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6587">http://planetarynames.wr.usgs.gov/Feature/6587</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-86.39999999999998,-7.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zlyden</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Umbriel<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6747">http://planetarynames.wr.usgs.gov/Feature/6747</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.80000000000001,-23.3</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

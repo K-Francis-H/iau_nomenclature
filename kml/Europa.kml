@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Adonis Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1560.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/56">http://planetarynames.wr.usgs.gov/Feature/56</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.6,-60.99999999996149</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agave Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1440.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/83">http://planetarynames.wr.usgs.gov/Feature/83</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>86.9,12.799999999981752</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agenor Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1496.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/84">http://planetarynames.wr.usgs.gov/Feature/84</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.5,-43.79999999995561</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Áine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6934">http://planetarynames.wr.usgs.gov/Feature/6934</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.5,-42.999999999986805</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alphesiboea Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1438.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/204">http://planetarynames.wr.usgs.gov/Feature/204</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-175.9,-25.09999999996452</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amaethon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6966">http://planetarynames.wr.usgs.gov/Feature/6966</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.47,13.820000000010227</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amergin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/230">http://planetarynames.wr.usgs.gov/Feature/230</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>129.4,-14.700000000009798</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Androgeos Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 723.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/264">http://planetarynames.wr.usgs.gov/Feature/264</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>80.7,11.700000000011235</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Angus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/274">http://planetarynames.wr.usgs.gov/Feature/274</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.10000000000002,-12.599999999993257</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Annwn Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2300.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14291">http://planetarynames.wr.usgs.gov/Feature/14291</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>40.0,19.999999999991296</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Argadnel Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1900.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/361">http://planetarynames.wr.usgs.gov/Feature/361</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.5,-14.600000000021241</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Argiope Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 689.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/367">http://planetarynames.wr.usgs.gov/Feature/367</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>164.4,-1.700000000002392</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arran Chaos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.0km<br/>
+            FeatureType: Chaos, chaoses<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14303">http://planetarynames.wr.usgs.gov/Feature/14303</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.5,13.400000000030333</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Asterius Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1943.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/438">http://planetarynames.wr.usgs.gov/Feature/438</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>89.2,14.90000000003879</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Astypalaea Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 817.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/443">http://planetarynames.wr.usgs.gov/Feature/443</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>147.9,-75.79999999996004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Autonoë Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 760.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/494">http://planetarynames.wr.usgs.gov/Feature/494</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-165.1,18.19999999995379</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Avagddu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/499">http://planetarynames.wr.usgs.gov/Feature/499</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-169.5,1.4000000000031505</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Balgatan Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2500.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14292">http://planetarynames.wr.usgs.gov/Feature/14292</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.0,-49.99999999998856</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Balor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/581">http://planetarynames.wr.usgs.gov/Feature/581</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-97.80000000000001,-52.80000000002604</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Beenalaght Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 882.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15831">http://planetarynames.wr.usgs.gov/Feature/15831</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-82.07999999999998,1.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Belenos Mensa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Mensa, mensae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15822">http://planetarynames.wr.usgs.gov/Feature/15822</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.07999999999998,42.75</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Belus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2437.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/681">http://planetarynames.wr.usgs.gov/Feature/681</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>128.6,9.299999999997727</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Boeotia Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/792">http://planetarynames.wr.usgs.gov/Feature/792</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-166.8,-53.60000000000796</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Borvo Mensa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 49.7210007km<br/>
+            FeatureType: Mensa, mensae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15823">http://planetarynames.wr.usgs.gov/Feature/15823</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>134.69,-0.45000000000000007</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bress</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6967">http://planetarynames.wr.usgs.gov/Feature/6967</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-98.66000000000003,37.64000000000934</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Brigid</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/882">http://planetarynames.wr.usgs.gov/Feature/882</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-81.30000000000001,10.799999999985081</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Butterdon Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1900.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/937">http://planetarynames.wr.usgs.gov/Feature/937</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-0.10000000000002274,-44.700000000046806</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cadmus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3548.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/955">http://planetarynames.wr.usgs.gov/Feature/955</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.3,38.70000000002963</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Callanish</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 107.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/974">http://planetarynames.wr.usgs.gov/Feature/974</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>25.5,-16.700000000030307</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Camulus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/993">http://planetarynames.wr.usgs.gov/Feature/993</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-81.10000000000002,-26.500000000042384</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Castalia Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 35.0km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1048">http://planetarynames.wr.usgs.gov/Feature/1048</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>134.3,-1.5999999999989436</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Chthonius Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2180.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1207">http://planetarynames.wr.usgs.gov/Feature/1207</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>55.8,-1.4000000000031505</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cilicia Flexus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1312.0km<br/>
+            FeatureType: Flexus, flexūs<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1215">http://planetarynames.wr.usgs.gov/Feature/1215</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.7,-59.49999999998914</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cilix</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1216">http://planetarynames.wr.usgs.gov/Feature/1216</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.1,2.600000000004872</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cliodhna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1246">http://planetarynames.wr.usgs.gov/Feature/1246</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-76.39999999999998,-2.4999999999966844</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Conamara Chaos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 143.699997km<br/>
+            FeatureType: Chaos, chaoses<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1282">http://planetarynames.wr.usgs.gov/Feature/1282</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>87.3,9.699999999997745</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Corick Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1300.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1310">http://planetarynames.wr.usgs.gov/Feature/1310</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-18.30000000000001,17.800000000041397</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cormac</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1314">http://planetarynames.wr.usgs.gov/Feature/1314</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-88.10000000000002,-36.89999999996167</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cyclades Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 107.0km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1361">http://planetarynames.wr.usgs.gov/Feature/1361</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.7,-62.49999999997423</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dagda</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6968">http://planetarynames.wr.usgs.gov/Feature/6968</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.74,37.34999999998765</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Deirdre</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1461">http://planetarynames.wr.usgs.gov/Feature/1461</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>152.7,-65.40000000002117</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Delphi Flexus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 793.0km<br/>
+            FeatureType: Flexus, flexūs<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1476">http://planetarynames.wr.usgs.gov/Feature/1476</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-174.1,-68.19999999998815</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Diarmuid</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.19999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1526">http://planetarynames.wr.usgs.gov/Feature/1526</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-102.0,-61.29999999999975</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Drizzlecomb Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1500.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1640">http://planetarynames.wr.usgs.gov/Feature/1640</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-111.69999999999999,7.6999999999977815</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Drumskinny Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1375.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1643">http://planetarynames.wr.usgs.gov/Feature/1643</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-161.0,48.30000000001512</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dyfed Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1750.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14293">http://planetarynames.wr.usgs.gov/Feature/14293</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>110.0,10.00000000000364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dylan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.30000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1683">http://planetarynames.wr.usgs.gov/Feature/1683</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-84.39999999999998,-55.30000000003112</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Echion Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1026.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1708">http://planetarynames.wr.usgs.gov/Feature/1708</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>174.8,-11.600000000037502</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eightercua Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 407.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15830">http://planetarynames.wr.usgs.gov/Feature/15830</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.29000000000002,6.68</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elathan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1757">http://planetarynames.wr.usgs.gov/Feature/1757</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.80000000000001,-31.90000000000443</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eochaid</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.6000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6969">http://planetarynames.wr.usgs.gov/Feature/6969</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>126.67,-50.479999999969486</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Euphemus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1250.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1871">http://planetarynames.wr.usgs.gov/Feature/1871</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-45.69999999999999,-11.400000000016686</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Falga Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2500.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14294">http://planetarynames.wr.usgs.gov/Feature/14294</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.0,29.99999999995564</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Glaukos Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1400.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2185">http://planetarynames.wr.usgs.gov/Feature/2185</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>129.1,57.80000000001432</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gortyna Flexus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 940.0km<br/>
+            FeatureType: Flexus, flexūs<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2226">http://planetarynames.wr.usgs.gov/Feature/2226</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-144.6,-42.09999999996171</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Govannan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2228">http://planetarynames.wr.usgs.gov/Feature/2228</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>57.2,-37.30000000001071</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gráinne</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2263">http://planetarynames.wr.usgs.gov/Feature/2263</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-99.39999999999998,-59.69999999995589</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Grannus Mensa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 42.0km<br/>
+            FeatureType: Mensa, mensae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15824">http://planetarynames.wr.usgs.gov/Feature/15824</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>134.2,-2.51</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gwern</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6970">http://planetarynames.wr.usgs.gov/Feature/6970</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>15.46,9.139999999999342</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gwydion</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2296">http://planetarynames.wr.usgs.gov/Feature/2296</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-81.60000000000002,-60.50000000000069</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Harmonia Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1154.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2368">http://planetarynames.wr.usgs.gov/Feature/2368</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.7,28.000000000040483</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hyperenor Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2996.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2615">http://planetarynames.wr.usgs.gov/Feature/2615</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>35.6,-12.099999999975273</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ino Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1515.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2699">http://planetarynames.wr.usgs.gov/Feature/2699</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-174.6,-1.700000000002392</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Katreus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 195.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2959">http://planetarynames.wr.usgs.gov/Feature/2959</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.7,-38.80000000004116</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kennet Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3200.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2988">http://planetarynames.wr.usgs.gov/Feature/2988</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>48.0,-40.999999999994834</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kerlescan Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 410.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15826">http://planetarynames.wr.usgs.gov/Feature/15826</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>121.75999999999999,3.34</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kermario Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 191.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15827">http://planetarynames.wr.usgs.gov/Feature/15827</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.639999999999986,44.69</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Libya Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 366.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3390">http://planetarynames.wr.usgs.gov/Feature/3390</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.0,-53.99999999998551</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Llyr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3435">http://planetarynames.wr.usgs.gov/Feature/3435</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>138.2,-1.8000000000031489</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Luchtar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.8999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6971">http://planetarynames.wr.usgs.gov/Feature/6971</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>102.43,-40.200000000013006</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lug</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6972">http://planetarynames.wr.usgs.gov/Feature/6972</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-44.31,27.99000000000868</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mael Dúin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3569">http://planetarynames.wr.usgs.gov/Feature/3569</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>162.1,-16.800000000007888</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maeve</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3571">http://planetarynames.wr.usgs.gov/Feature/3571</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-78.89999999999998,58.79999999999503</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Manannán</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3622">http://planetarynames.wr.usgs.gov/Feature/3622</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>120.3,3.0999999999965846</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Math</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.8000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3749">http://planetarynames.wr.usgs.gov/Feature/3749</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.3,-25.60000000004835</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maughanasilly Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 920.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15829">http://planetarynames.wr.usgs.gov/Feature/15829</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-155.19,-34.24</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mehen Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1500.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3803">http://planetarynames.wr.usgs.gov/Feature/3803</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>123.3,55.99999999997127</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ménec Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 33.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15828">http://planetarynames.wr.usgs.gov/Feature/15828</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.87,-51.98</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Merrivale Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1600.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3861">http://planetarynames.wr.usgs.gov/Feature/3861</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>60.5,-40.999999999994834</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Midir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6973">http://planetarynames.wr.usgs.gov/Feature/6973</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>21.25,3.649999999996843</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Minos Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2170.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3915">http://planetarynames.wr.usgs.gov/Feature/3915</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>164.8,47.19999999999609</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Morvran</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4045">http://planetarynames.wr.usgs.gov/Feature/4045</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-152.6,-4.90000000000379</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Moyle Cavus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 145.0km<br/>
+            FeatureType: Cavus, cavi<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15825">http://planetarynames.wr.usgs.gov/Feature/15825</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.0,-25.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Moytura Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 483.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4057">http://planetarynames.wr.usgs.gov/Feature/4057</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>65.7,-49.99999999998856</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Murias Chaos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 116.0km<br/>
+            FeatureType: Chaos, chaoses<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4074">http://planetarynames.wr.usgs.gov/Feature/4074</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-83.80000000000001,22.400000000006784</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Narberth Chaos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Chaos, chaoses<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14304">http://planetarynames.wr.usgs.gov/Feature/14304</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>87.0,-25.99999999995634</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Niamh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4245">http://planetarynames.wr.usgs.gov/Feature/4245</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>143.1,21.100000000012997</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ogma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6974">http://planetarynames.wr.usgs.gov/Feature/6974</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>72.14,87.44999999997793</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oisín</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.19999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4421">http://planetarynames.wr.usgs.gov/Feature/4421</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.6,-52.29999999998935</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Onga Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 870.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4465">http://planetarynames.wr.usgs.gov/Feature/4465</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>148.7,-38.70000000002963</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pelagon Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 616.700012km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4637">http://planetarynames.wr.usgs.gov/Feature/4637</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-173.6,35.49999999997082</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pelorus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1535.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4643">http://planetarynames.wr.usgs.gov/Feature/4643</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>171.7,-19.799999999976738</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phineus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2004.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4695">http://planetarynames.wr.usgs.gov/Feature/4695</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>40.1,-29.7999999999712</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phocis Flexus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 242.0km<br/>
+            FeatureType: Flexus, flexūs<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4703">http://planetarynames.wr.usgs.gov/Feature/4703</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>161.6,-44.50000000004845</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phoenix Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1621.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4707">http://planetarynames.wr.usgs.gov/Feature/4707</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>171.2,16.599999999971157</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Powys Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2000.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14295">http://planetarynames.wr.usgs.gov/Feature/14295</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-145.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pryderi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4856">http://planetarynames.wr.usgs.gov/Feature/4856</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-159.1,-66.10000000000116</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pwyll</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4878">http://planetarynames.wr.usgs.gov/Feature/4878</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>88.6,-25.200000000037488</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rathmore Chaos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Chaos, chaoses<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14305">http://planetarynames.wr.usgs.gov/Feature/14305</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.0,25.400000000023407</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rhadamanthys Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1747.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5012">http://planetarynames.wr.usgs.gov/Feature/5012</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>159.5,19.29999999995165</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rhiannon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.8999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5016">http://planetarynames.wr.usgs.gov/Feature/5016</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>165.1,-80.9000000000173</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sarpedon Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 900.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5329">http://planetarynames.wr.usgs.gov/Feature/5329</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-92.89999999999998,-49.50000000003637</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sharpitor Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1650.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5473">http://planetarynames.wr.usgs.gov/Feature/5473</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.7,65.40000000002117</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sidon Flexus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1133.0km<br/>
+            FeatureType: Flexus, flexūs<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5520">http://planetarynames.wr.usgs.gov/Feature/5520</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.6,-66.3999999999772</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sparti Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1600.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5665">http://planetarynames.wr.usgs.gov/Feature/5665</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>114.5,59.29999999995022</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Staldon Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1525.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5681">http://planetarynames.wr.usgs.gov/Feature/5681</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-27.399999999999977,-0.799999999999579</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Taliesin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5838">http://planetarynames.wr.usgs.gov/Feature/5838</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-138.0,-22.799999999971035</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tara Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1780.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14296">http://planetarynames.wr.usgs.gov/Feature/14296</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.0,-10.00000000000364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tectamus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2096.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5895">http://planetarynames.wr.usgs.gov/Feature/5895</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>160.8,26.89999999996881</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tegid</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5897">http://planetarynames.wr.usgs.gov/Feature/5897</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.4,0.799999999999579</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Telephassa Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 777.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5907">http://planetarynames.wr.usgs.gov/Feature/5907</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.2,-0.799999999999579</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thasus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 669.299988km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5950">http://planetarynames.wr.usgs.gov/Feature/5950</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.0,-66.10000000000116</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thera Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 95.0km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5967">http://planetarynames.wr.usgs.gov/Feature/5967</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.8,-46.69999999997989</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thrace Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 180.199997km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5984">http://planetarynames.wr.usgs.gov/Feature/5984</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-172.1,-45.90000000001508</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thynia Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 412.600006km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5989">http://planetarynames.wr.usgs.gov/Feature/5989</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-154.5,-59.19999999995091</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tormsdale Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 875.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6062">http://planetarynames.wr.usgs.gov/Feature/6062</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>102.0,47.69999999998576</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tuag</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.1999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6975">http://planetarynames.wr.usgs.gov/Feature/6975</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-172.36,59.92000000000034</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tyre</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 149.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6170">http://planetarynames.wr.usgs.gov/Feature/6170</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-146.6,33.599999999964105</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tyre Macula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 148.0km<br/>
+            FeatureType: Macula, maculae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6920">http://planetarynames.wr.usgs.gov/Feature/6920</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.0,31.699999999953782</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uaithne</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6179">http://planetarynames.wr.usgs.gov/Feature/6179</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-90.69999999999999,-48.50000000003725</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Udaeus Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2050.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6183">http://planetarynames.wr.usgs.gov/Feature/6183</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>120.6,48.60000000003922</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yelland Linea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 186.0km<br/>
+            FeatureType: Linea, lineae<br/>
+            Target: Europa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6651">http://planetarynames.wr.usgs.gov/Feature/6651</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>164.0,-16.700000000030307</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

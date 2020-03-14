@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Gaea
+            
+          </name>
+        
+        
+        
+          <target>AMALTHEA</target>
+          <system>JUPITER</system>
+        
+        
+          <diameter>80</diameter>
+        
+        
+          <centerlatitude>-80</centerlatitude>
+          <centerlongitude>90</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1979-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Greek mother earth goddess who brought Zeus to Crete.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Ida Facula
+            
+          </name>
+        
+        
+        
+          <target>AMALTHEA</target>
+          <system>JUPITER</system>
+        
+        
+          <diameter>50</diameter>
+        
+        
+          <centerlatitude>20</centerlatitude>
+          <centerlongitude>175</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1979-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Greek; mountain where Zeus played as a child.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Lyctos Facula
+            
+          </name>
+        
+        
+        
+          <target>AMALTHEA</target>
+          <system>JUPITER</system>
+        
+        
+          <diameter>25</diameter>
+        
+        
+          <centerlatitude>-20</centerlatitude>
+          <centerlongitude>170</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1979-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Greek; area in Crete where Zeus was raised.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Pan
+            
+          </name>
+        
+        
+        
+          <target>AMALTHEA</target>
+          <system>JUPITER</system>
+        
+        
+          <diameter>100</diameter>
+        
+        
+          <centerlatitude>55</centerlatitude>
+          <centerlongitude>35</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1979-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Greek; goat-god, son of Amalthea and Hermes in some legends, also Zeus&#039; foster brother.</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Pharos
+            
+          </name>
+        
+        
+        
+          <target>PROTEUS</target>
+          <system>NEPTUNE</system>
+        
+        
+          <diameter>0</diameter>
+        
+        
+          <centerlatitude>0</centerlatitude>
+          <centerlongitude>0</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1994-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Island where Proteus reigned.</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

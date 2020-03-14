@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Acmon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Dactyl<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/39">http://planetarynames.wr.usgs.gov/Feature/39</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>138.0,-39.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Celmis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.200000003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Dactyl<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1097">http://planetarynames.wr.usgs.gov/Feature/1097</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-140.0,-46.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

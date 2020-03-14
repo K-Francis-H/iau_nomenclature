@@ -1,0 +1,3262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Abydos Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 180.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/26">http://planetarynames.wr.usgs.gov/Feature/26</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-153.44,33.32634</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Achelous</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/33">http://planetarynames.wr.usgs.gov/Feature/33</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-11.776916503827408,61.90218505865305</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Adad</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/42">http://planetarynames.wr.usgs.gov/Feature/42</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>1.977561841171028,57.42666693145997</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Adapa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/49">http://planetarynames.wr.usgs.gov/Feature/49</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-31.31923828139054,73.08352050774319</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agreus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 63.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/91">http://planetarynames.wr.usgs.gov/Feature/91</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>127.302172851558,15.871411132810552</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agrotes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 74.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/94">http://planetarynames.wr.usgs.gov/Feature/94</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.38020019529858,60.932958984396485</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Akhmin Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 245.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/129">http://planetarynames.wr.usgs.gov/Feature/129</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>170.2,28.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Akitu Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 365.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/134">http://planetarynames.wr.usgs.gov/Feature/134</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>166.0,39.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aleyin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.3999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/179">http://planetarynames.wr.usgs.gov/Feature/179</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-134.08034973134755,15.139013671875531</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ammura</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/237">http://planetarynames.wr.usgs.gov/Feature/237</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>17.647802734374352,31.76373291018075</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 102.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/238">http://planetarynames.wr.usgs.gov/Feature/238</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>139.3856933593833,33.693945312530055</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amset</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/245">http://planetarynames.wr.usgs.gov/Feature/245</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-178.7535705561292,-14.407427978528423</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anat</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.9000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/251">http://planetarynames.wr.usgs.gov/Feature/251</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.0,-4.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Andjeti</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 52.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/262">http://planetarynames.wr.usgs.gov/Feature/262</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-161.1049438472859,-52.75000000011993</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anhur</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/276">http://planetarynames.wr.usgs.gov/Feature/276</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.6778900148244,32.6252807617723</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anshar Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1372.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/290">http://planetarynames.wr.usgs.gov/Feature/290</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>161.3,18.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Antum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.7530003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/301">http://planetarynames.wr.usgs.gov/Feature/301</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>141.06359558124626,5.087640380866197</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/302">http://planetarynames.wr.usgs.gov/Feature/302</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>15.75273437500056,65.23626708985216</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anubis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 114.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/303">http://planetarynames.wr.usgs.gov/Feature/303</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.66425781247332,-84.44091796875978</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anzu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 210.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/309">http://planetarynames.wr.usgs.gov/Feature/309</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-62.732910156196,63.50605468750787</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Apophis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/329">http://planetarynames.wr.usgs.gov/Feature/329</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>83.83575439452807,-8.123596191404442</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Apsu Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1950.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/331">http://planetarynames.wr.usgs.gov/Feature/331</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>134.8,-37.50000000000001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aquarius Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1420.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/334">http://planetarynames.wr.usgs.gov/Feature/334</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.0,52.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arbela Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3850.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/345">http://planetarynames.wr.usgs.gov/Feature/345</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.0,-34.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ashîma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 84.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/426">http://planetarynames.wr.usgs.gov/Feature/426</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.98022460924517,-39.04781494142012</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Asshur</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/435">http://planetarynames.wr.usgs.gov/Feature/435</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>26.51702880857914,54.164294433577744</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Atra-hasis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 133.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/459">http://planetarynames.wr.usgs.gov/Feature/459</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>105.89118652347253,22.543945312510242</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aya</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/516">http://planetarynames.wr.usgs.gov/Feature/516</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.9768920898581,68.34119873045364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ba&#039;al</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/649">http://planetarynames.wr.usgs.gov/Feature/649</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>30.02720336913568,24.922534179675733</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Babylon Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3100.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15154">http://planetarynames.wr.usgs.gov/Feature/15154</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-95.5,-22.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Barnard Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3200.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/610">http://planetarynames.wr.usgs.gov/Feature/610</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-11.600000000000023,-6.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bau</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 77.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/641">http://planetarynames.wr.usgs.gov/Feature/641</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.66979980454471,23.052746582040804</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 63.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/717">http://planetarynames.wr.usgs.gov/Feature/717</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.04012451177368,-25.47746582029431</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bigeh Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 224.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/742">http://planetarynames.wr.usgs.gov/Feature/742</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-94.30000000000001,29.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Borsippa Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3300.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15155">http://planetarynames.wr.usgs.gov/Feature/15155</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-59.99999999999999</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bubastis Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2730.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/904">http://planetarynames.wr.usgs.gov/Feature/904</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>135.0,-81.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Busiris Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 369.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/930">http://planetarynames.wr.usgs.gov/Feature/930</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>144.7,16.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Buto Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 245.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/935">http://planetarynames.wr.usgs.gov/Feature/935</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>156.8,13.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Byblus Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 645.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/940">http://planetarynames.wr.usgs.gov/Feature/940</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>160.3,37.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Chrysor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1205">http://planetarynames.wr.usgs.gov/Feature/1205</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-134.33858946791352,15.300000000657478</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cisti</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 70.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1222">http://planetarynames.wr.usgs.gov/Feature/1222</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-64.22691650425031,-31.59506835932245</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Coptos Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 329.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1304">http://planetarynames.wr.usgs.gov/Feature/1304</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.0,10.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Damkina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 190.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14132">http://planetarynames.wr.usgs.gov/Feature/14132</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.882470703115757,-30.168164062524433</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Danel</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1399">http://planetarynames.wr.usgs.gov/Feature/1399</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-21.29614257823897,-4.330773925778836</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dardanus Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1500.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1413">http://planetarynames.wr.usgs.gov/Feature/1413</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.699999999999989,-31.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dendera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 82.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1487">http://planetarynames.wr.usgs.gov/Feature/1487</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>104.5368164062519,-1.1164794921854924</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dendera Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 114.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6815">http://planetarynames.wr.usgs.gov/Feature/6815</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>103.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Diment</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1536">http://planetarynames.wr.usgs.gov/Feature/1536</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.232696533203223,23.139825439438145</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dukug Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 385.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1659">http://planetarynames.wr.usgs.gov/Feature/1659</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-2.5,83.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1701">http://planetarynames.wr.usgs.gov/Feature/1701</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-148.73103637652443,17.71647949225833</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Edfu Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 184.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1720">http://planetarynames.wr.usgs.gov/Feature/1720</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.1,25.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>El</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1753">http://planetarynames.wr.usgs.gov/Feature/1753</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-151.35769042966982,1.005493164061234</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elam Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1500.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1755">http://planetarynames.wr.usgs.gov/Feature/1755</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>160.0,59.99999999999999</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Enki Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 160.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1804">http://planetarynames.wr.usgs.gov/Feature/1804</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-13.856154736650979,38.83705494799452</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Enkidu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 122.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1805">http://planetarynames.wr.usgs.gov/Feature/1805</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>34.87470703125125,-26.60605468749467</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Enlil</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1806">http://planetarynames.wr.usgs.gov/Feature/1806</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>47.904107666028125,55.36373291017341</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>En-zu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1795">http://planetarynames.wr.usgs.gov/Feature/1795</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.3999313509975,11.594850157746322</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Epigeus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 343.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1816">http://planetarynames.wr.usgs.gov/Feature/1816</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.3496093750022,22.961425781250245</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Erech Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 953.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1822">http://planetarynames.wr.usgs.gov/Feature/1822</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-179.2,-7.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Erichthonius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1825">http://planetarynames.wr.usgs.gov/Feature/1825</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-175.26374511721323,-15.323345947221227</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eshmun</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 98.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1845">http://planetarynames.wr.usgs.gov/Feature/1845</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.8813232421744,-17.450000000019354</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Etana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 46.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1856">http://planetarynames.wr.usgs.gov/Feature/1856</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.645556640624935,74.74394531247249</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gad</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2051">http://planetarynames.wr.usgs.gov/Feature/2051</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-137.5582519531246,-13.56429443358336</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Galileo Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4439.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2076">http://planetarynames.wr.usgs.gov/Feature/2076</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-127.0,45.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Geb</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2127">http://planetarynames.wr.usgs.gov/Feature/2127</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>177.3549194336092,56.410424804708136</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Geinos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2134">http://planetarynames.wr.usgs.gov/Feature/2134</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>140.56428222658275,18.642572021510396</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gilgamesh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 153.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2161">http://planetarynames.wr.usgs.gov/Feature/2161</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-124.8292881177513,-62.84382779204837</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 73.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2175">http://planetarynames.wr.usgs.gov/Feature/2175</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-145.74670410154843,34.04725341798361</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2275">http://planetarynames.wr.usgs.gov/Feature/2275</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.297265623215765,64.14669189485709</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gushkin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15497">http://planetarynames.wr.usgs.gov/Feature/15497</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-45.975585937887786,20.747680664037</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Halieus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2325">http://planetarynames.wr.usgs.gov/Feature/2325</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-167.14064941403154,34.44943847655602</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hammamat Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15305">http://planetarynames.wr.usgs.gov/Feature/15305</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>41.89678422416407,-24.228449694245334</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hamra Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15307">http://planetarynames.wr.usgs.gov/Feature/15307</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.37429856646494,-77.35461657062162</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hapi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2358">http://planetarynames.wr.usgs.gov/Feature/2358</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>147.33737792965005,-30.571972656261273</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Harakhtes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 108.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2359">http://planetarynames.wr.usgs.gov/Feature/2359</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-100.25769042959877,35.94943847658502</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Haroeris</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 70.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2369">http://planetarynames.wr.usgs.gov/Feature/2369</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>63.17583007813175,28.52746582032733</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Harpagia Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1400.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2371">http://planetarynames.wr.usgs.gov/Feature/2371</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>46.5,-11.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hathor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 173.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2383">http://planetarynames.wr.usgs.gov/Feature/2383</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>91.26103515625397,-66.90493164065235</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hay-tau</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 27.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2390">http://planetarynames.wr.usgs.gov/Feature/2390</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-133.12554321297762,14.435455322271489</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hedetet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 106.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2408">http://planetarynames.wr.usgs.gov/Feature/2408</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>108.98569335935672,-32.90661621089957</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Heliopolis Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2426">http://planetarynames.wr.usgs.gov/Feature/2426</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.0,18.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hermopolis Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 260.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2472">http://planetarynames.wr.usgs.gov/Feature/2472</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>164.7,22.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hershef</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 120.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2480">http://planetarynames.wr.usgs.gov/Feature/2480</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.61921386718818,47.389013671840324</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Humbaba</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2581">http://planetarynames.wr.usgs.gov/Feature/2581</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.30906372090641,-55.14588012693037</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hursag Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2183.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2588">http://planetarynames.wr.usgs.gov/Feature/2588</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>111.53810377502,-9.493914462542</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ilah</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 76.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2660">http://planetarynames.wr.usgs.gov/Feature/2660</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-160.62416992178154,22.002185058598823</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ilus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2671">http://planetarynames.wr.usgs.gov/Feature/2671</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-110.43184814449432,-13.455493164028706</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Irkalla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 117.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2719">http://planetarynames.wr.usgs.gov/Feature/2719</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-114.8395263671716,-32.51760253904153</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ishkur</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 67.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2731">http://planetarynames.wr.usgs.gov/Feature/2731</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-8.371423339818932,0.36591796875015914</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Isimu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 89.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2738">http://planetarynames.wr.usgs.gov/Feature/2738</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,8.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Isis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2740">http://planetarynames.wr.usgs.gov/Feature/2740</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>158.8027343750448,-67.2780273437723</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kadi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 87.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2881">http://planetarynames.wr.usgs.gov/Feature/2881</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-178.50438232419748,47.675280761714916</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Keret</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6855">http://planetarynames.wr.usgs.gov/Feature/6855</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.19999999999999,15.999999999966004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khensu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3008">http://planetarynames.wr.usgs.gov/Feature/3008</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-152.92953796378941,1.0225341796857665</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khepri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3009">http://planetarynames.wr.usgs.gov/Feature/3009</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.55769042968868,20.413732910135423</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khnum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6856">http://planetarynames.wr.usgs.gov/Feature/6856</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-85.19999999999999,-17.799999999973974</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khnum Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 66.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3010">http://planetarynames.wr.usgs.gov/Feature/3010</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.731203083996165,32.9019986293728</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khonsu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3012">http://planetarynames.wr.usgs.gov/Feature/3012</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>169.1697753905791,-37.513732910128546</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khumbam</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3016">http://planetarynames.wr.usgs.gov/Feature/3016</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>24.64780273437244,-24.09999999998055</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kingu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3040">http://planetarynames.wr.usgs.gov/Feature/3040</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>132.97308349605348,-34.659362792965815</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kishar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3054">http://planetarynames.wr.usgs.gov/Feature/3054</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.540063476562548,72.69943847654126</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kishar Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1187.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3055">http://planetarynames.wr.usgs.gov/Feature/3055</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>143.4,-6.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kittu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3058">http://planetarynames.wr.usgs.gov/Feature/3058</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>25.39505615234383,0.3999999999998138</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kulla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 93.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3146">http://planetarynames.wr.usgs.gov/Feature/3146</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-113.86593017605861,33.219226074203625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lagamal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 131.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3229">http://planetarynames.wr.usgs.gov/Feature/3229</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>115.78613281249719,64.29506835936816</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lagash Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1575.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3231">http://planetarynames.wr.usgs.gov/Feature/3231</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.01109687689,-8.9896142236495</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lakhamu Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 370.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3241">http://planetarynames.wr.usgs.gov/Feature/3241</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>132.8,-11.699999999999998</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lakhmu Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3700.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3242">http://planetarynames.wr.usgs.gov/Feature/3242</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.0,50.39999999998886</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laomedon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 64.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15813">http://planetarynames.wr.usgs.gov/Feature/15813</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-77.89999999999998,20.900000000000002</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Larsa Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1130.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3283">http://planetarynames.wr.usgs.gov/Feature/3283</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>100.0,2.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Latpon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3294">http://planetarynames.wr.usgs.gov/Feature/3294</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.21374511713364,58.73626708988401</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lugalmeslam</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 64.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3510">http://planetarynames.wr.usgs.gov/Feature/3510</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>166.11484375007208,23.719787597705462</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lumha</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3514">http://planetarynames.wr.usgs.gov/Feature/3514</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-154.23353271485723,36.01098632812246</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3546">http://planetarynames.wr.usgs.gov/Feature/3546</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>156.36896362308437,1.2991882324199364</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Marius Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4940.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3716">http://planetarynames.wr.usgs.gov/Feature/3716</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>172.3,2.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mashu Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2960.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3739">http://planetarynames.wr.usgs.gov/Feature/3739</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.0,34.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mehit</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3804">http://planetarynames.wr.usgs.gov/Feature/3804</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.38652954132505,28.954681396415065</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Melkart</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 105.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3820">http://planetarynames.wr.usgs.gov/Feature/3820</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>173.92856445313473,-9.858239746094158</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Melotte Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4100.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15153">http://planetarynames.wr.usgs.gov/Feature/15153</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>115.0,-12.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Memphis Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 361.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3829">http://planetarynames.wr.usgs.gov/Feature/3829</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-131.91,14.100000000000001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Menhit</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 140.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14133">http://planetarynames.wr.usgs.gov/Feature/14133</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-140.3203613280809,-36.31210937499585</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Min</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 33.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3908">http://planetarynames.wr.usgs.gov/Feature/3908</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-1.2557556158007515,29.23352050778614</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3918">http://planetarynames.wr.usgs.gov/Feature/3918</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>129.70179748542859,-3.3006866455084465</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Misharu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 88.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3925">http://planetarynames.wr.usgs.gov/Feature/3925</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>24.10822753906261,-4.305493164059873</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mont</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3999">http://planetarynames.wr.usgs.gov/Feature/3999</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>48.04711608847445,44.62047424281255</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4030">http://planetarynames.wr.usgs.gov/Feature/4030</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>32.65192260742129,30.551373291001724</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mot</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4051">http://planetarynames.wr.usgs.gov/Feature/4051</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-165.94945068353783,9.933520507831402</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mummu Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2680.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15156">http://planetarynames.wr.usgs.gov/Feature/15156</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-180.0,-39.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Musa Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 69.0km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15302">http://planetarynames.wr.usgs.gov/Feature/15302</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>171.5374445014616,-31.348957466226718</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mush</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 99.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4078">http://planetarynames.wr.usgs.gov/Feature/4078</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-114.7741699219286,-15.117041015637689</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mysia Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5066.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4089">http://planetarynames.wr.usgs.gov/Feature/4089</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.800000000000011,-7.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nabu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4100">http://planetarynames.wr.usgs.gov/Feature/4100</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-1.191772460302957,-45.38845214850316</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nah-Hunte</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4109">http://planetarynames.wr.usgs.gov/Feature/4109</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-85.2626220701552,-17.757427978567005</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Namtar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4132">http://planetarynames.wr.usgs.gov/Feature/4132</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.302172851559003,-58.34119873046979</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nanna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4141">http://planetarynames.wr.usgs.gov/Feature/4141</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>118.13020019528417,-17.606054687532037</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nanshe Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 103.800003km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4145">http://planetarynames.wr.usgs.gov/Feature/4145</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.100000000000023,15.400000000000004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Natrun Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.5km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15304">http://planetarynames.wr.usgs.gov/Feature/15304</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.74457388358053,-30.93272954213134</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nefertum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4191">http://planetarynames.wr.usgs.gov/Feature/4191</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>38.96290893558374,44.35000000006363</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Neheh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4194">http://planetarynames.wr.usgs.gov/Feature/4194</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-62.66262207051079,72.12746582023371</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Neith</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4197">http://planetarynames.wr.usgs.gov/Feature/4197</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-6.973669433625844,29.4549316405812</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nergal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.60000038km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4215">http://planetarynames.wr.usgs.gov/Feature/4215</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>159.66908874559536,38.58489379894573</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nicholson Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3900.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4250">http://planetarynames.wr.usgs.gov/Feature/4250</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-6.399999999999977,-33.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nidaba</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 199.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4254">http://planetarynames.wr.usgs.gov/Feature/4254</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-123.43403320312188,17.74887695315057</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nigirsu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 53.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4263">http://planetarynames.wr.usgs.gov/Feature/4263</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>39.43132324220236,-58.255493164099825</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nineveh Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1700.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4288">http://planetarynames.wr.usgs.gov/Feature/4288</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-53.0,23.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ningishzida</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4290">http://planetarynames.wr.usgs.gov/Feature/4290</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>170.16153564441385,14.106054687502521</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ninkasi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 81.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4295">http://planetarynames.wr.usgs.gov/Feature/4295</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.85219726568164,59.206054687494444</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ninki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 194.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4296">http://planetarynames.wr.usgs.gov/Feature/4296</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.79008789062263,-8.365917968755376</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ninlil</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 91.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4297">http://planetarynames.wr.usgs.gov/Feature/4297</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.32416992188229,6.269787597656266</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ninsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 88.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4299">http://planetarynames.wr.usgs.gov/Feature/4299</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-140.5521972656183,-14.345068359406849</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nippur Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1425.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4306">http://planetarynames.wr.usgs.gov/Feature/4306</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.64663547277,35.405712591558</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nun Sulci</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1500.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4356">http://planetarynames.wr.usgs.gov/Feature/4356</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>43.6,49.50000000003329</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nut</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4364">http://planetarynames.wr.usgs.gov/Feature/4364</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.79780273436108,-54.21154785157712</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ombos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 177.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15165">http://planetarynames.wr.usgs.gov/Feature/15165</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>123.83569335938414,4.751586914062491</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ombos Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 170.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4457">http://planetarynames.wr.usgs.gov/Feature/4457</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>124.0,4.8000000000009</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Osiris</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 107.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4509">http://planetarynames.wr.usgs.gov/Feature/4509</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-166.30825195312545,-38.0005615233972</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Perrine Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3800.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4662">http://planetarynames.wr.usgs.gov/Feature/4662</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-28.0,34.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Philae Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 900.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4688">http://planetarynames.wr.usgs.gov/Feature/4688</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.2,68.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Philus Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 465.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4694">http://planetarynames.wr.usgs.gov/Feature/4694</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.1,44.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phrygia Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3700.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4712">http://planetarynames.wr.usgs.gov/Feature/4712</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.600000000000023,12.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ptah</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4858">http://planetarynames.wr.usgs.gov/Feature/4858</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>142.94780273420102,-65.89999999993292</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Punt</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 135.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4869">http://planetarynames.wr.usgs.gov/Feature/4869</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>120.14724121093685,-24.889013671844697</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Punt Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 228.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6888">http://planetarynames.wr.usgs.gov/Feature/6888</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>117.8,-26.099999999963813</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rum Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.0km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15303">http://planetarynames.wr.usgs.gov/Feature/15303</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>177.1836411657296,-30.656284781822624</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ruti</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5242">http://planetarynames.wr.usgs.gov/Feature/5242</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>51.353295898442354,13.227465820277837</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sais Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 137.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6900">http://planetarynames.wr.usgs.gov/Feature/6900</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-14.199999999999989,37.900000000048195</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Saltu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5286">http://planetarynames.wr.usgs.gov/Feature/5286</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>7.226391601561818,-14.152746581998889</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sapas</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5317">http://planetarynames.wr.usgs.gov/Feature/5317</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.990649414298616,57.452185058541176</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sati</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 95.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5336">http://planetarynames.wr.usgs.gov/Feature/5336</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.802209472518655,30.836828613252806</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sebek</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5400">http://planetarynames.wr.usgs.gov/Feature/5400</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>3.2241455078129073,61.25437011720227</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Seima</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5412">http://planetarynames.wr.usgs.gov/Feature/5412</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>144.0252685546451,17.094506835956867</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Seker</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 103.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5414">http://planetarynames.wr.usgs.gov/Feature/5414</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>14.62470703124915,-39.156054687500976</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Selket</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 168.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5419">http://planetarynames.wr.usgs.gov/Feature/5419</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-105.70444335934363,15.028588867165453</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Serapis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 169.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5436">http://planetarynames.wr.usgs.gov/Feature/5436</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-44.11318359374286,-12.39999999995903</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Shu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5503">http://planetarynames.wr.usgs.gov/Feature/5503</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>3.158789062499558,43.1601745605874</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Shuruppak Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2730.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5508">http://planetarynames.wr.usgs.gov/Feature/5508</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>128.24998810449,-19.618300302596</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sicyon Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2125.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5516">http://planetarynames.wr.usgs.gov/Feature/5516</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-15.300000000000011,33.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5545">http://planetarynames.wr.usgs.gov/Feature/5545</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>2.5356933593755864,52.942572021480544</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sippar Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3260.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5573">http://planetarynames.wr.usgs.gov/Feature/5573</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-170.2,-19.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Siwah Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 220.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5589">http://planetarynames.wr.usgs.gov/Feature/5589</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-143.0,7.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tammuz</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 51.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5847">http://planetarynames.wr.usgs.gov/Feature/5847</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>129.24012451171404,13.450000000017972</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tanit</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5855">http://planetarynames.wr.usgs.gov/Feature/5855</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-36.62335815453207,57.49176025389421</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tashmetum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 135.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5879">http://planetarynames.wr.usgs.gov/Feature/5879</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>95.45935058593376,-39.71972656248602</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ta-urt</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 94.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5809">http://planetarynames.wr.usgs.gov/Feature/5809</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>55.801110839842835,27.658801269563636</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Terah Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 283.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5923">http://planetarynames.wr.usgs.gov/Feature/5923</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>82.39999999999998,7.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Teshub</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 188.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5935">http://planetarynames.wr.usgs.gov/Feature/5935</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>80.7152832031199,-68.29731445312369</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tettu Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 189.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5939">http://planetarynames.wr.usgs.gov/Feature/5939</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-160.96,37.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thebes Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 360.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5956">http://planetarynames.wr.usgs.gov/Feature/5956</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>157.8,7.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thoth</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 102.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5981">http://planetarynames.wr.usgs.gov/Feature/5981</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.25163574232627,-43.22197265626167</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tiamat Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1330.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5991">http://planetarynames.wr.usgs.gov/Feature/5991</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.9,4.140000000000001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tros</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 94.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6091">http://planetarynames.wr.usgs.gov/Feature/6091</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-27.263183593692588,11.141760253901152</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Umma Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1270.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6220">http://planetarynames.wr.usgs.gov/Feature/6220</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>110.5,4.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Upuant</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6232">http://planetarynames.wr.usgs.gov/Feature/6232</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>40.45878906256575,46.404119873077356</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ur Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1145.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6234">http://planetarynames.wr.usgs.gov/Feature/6234</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.5,49.50000000000001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uruk Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2200.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6246">http://planetarynames.wr.usgs.gov/Feature/6246</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-160.0,3.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wadjet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 100.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6928">http://planetarynames.wr.usgs.gov/Feature/6928</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>91.1,-53.8000000000041</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>We-ila</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6503">http://planetarynames.wr.usgs.gov/Feature/6503</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>69.65273437499559,-12.362109374980491</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wepwawet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 86.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6520">http://planetarynames.wr.usgs.gov/Feature/6520</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-59.81318359392361,-69.8890136718264</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Xibalba Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2200.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6611">http://planetarynames.wr.usgs.gov/Feature/6611</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.10000000000002,43.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yaroun Patera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.0km<br/>
+            FeatureType: Patera, paterae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15306">http://planetarynames.wr.usgs.gov/Feature/15306</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-142.1539408689025,-46.649552532881</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zakar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 170.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6692">http://planetarynames.wr.usgs.gov/Feature/6692</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>26.325830078124955,31.276342773460943</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zaqar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 33.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6701">http://planetarynames.wr.usgs.gov/Feature/6701</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-37.41455688425083,58.16098632821842</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zu Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2900.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ganymede<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6756">http://planetarynames.wr.usgs.gov/Feature/6756</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-150.5,38.49999999995416</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

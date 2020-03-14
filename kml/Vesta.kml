@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Aconia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.9979992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15196">http://planetarynames.wr.usgs.gov/Feature/15196</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.370312499999,7.53662109375021</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aelia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.34299994km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14929">http://planetarynames.wr.usgs.gov/Feature/14929</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-69.19508056630633,-14.25767822266125</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Africana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.4300003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15197">http://planetarynames.wr.usgs.gov/Feature/15197</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-14.132812500002842,68.99414062499935</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agonium Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 111.276001km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14916">http://planetarynames.wr.usgs.gov/Feature/14916</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-43.91855468749998,-53.4681640625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Albalonga Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 161.738998km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15062">http://planetarynames.wr.usgs.gov/Feature/15062</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>72.613085937499,-7.1666015625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Albana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.8639984km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15051">http://planetarynames.wr.usgs.gov/Feature/15051</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-159.30955735474848,76.60558927078554</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Albia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.78999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15198">http://planetarynames.wr.usgs.gov/Feature/15198</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>78.84558105464836,-27.8503417968618</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alypia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.1660004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15199">http://planetarynames.wr.usgs.gov/Feature/15199</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>139.22314453124642,-70.22460937499812</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Angioletta</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.4169998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15257">http://planetarynames.wr.usgs.gov/Feature/15257</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.24853515625983,-40.15502929687642</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Antonia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.7509995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14930">http://planetarynames.wr.usgs.gov/Feature/14930</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-9.224169922007036,-58.7022460937283</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aquilia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.8219986km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14931">http://planetarynames.wr.usgs.gov/Feature/14931</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-169.12304687499142,-49.41435546875113</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aricia Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.019001km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14913">http://planetarynames.wr.usgs.gov/Feature/14913</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.45483461432855,13.376474592494072</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arruntia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.4870005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14932">http://planetarynames.wr.usgs.gov/Feature/14932</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-138.41043701169932,39.4439453125045</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bellicia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.6800003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14875">http://planetarynames.wr.usgs.gov/Feature/14875</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-162.23780686050688,37.729228010972136</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Brumalia Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 48.2099991km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15065">http://planetarynames.wr.usgs.gov/Feature/15065</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>64.99245628187634,-6.306682497651219</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bruttia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.6809998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15200">http://planetarynames.wr.usgs.gov/Feature/15200</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.91064453126023,63.80859374999684</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Caesonia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 104.231003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15201">http://planetarynames.wr.usgs.gov/Feature/15201</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-110.0654296875002,31.20117187500003</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Calpurnia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.1850014km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14904">http://planetarynames.wr.usgs.gov/Feature/14904</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-10.898828124996328,16.721972656250234</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cannutia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.9650002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15202">http://planetarynames.wr.usgs.gov/Feature/15202</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-145.2678222656578,-58.93066406249006</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Canuleia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.3190002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14933">http://planetarynames.wr.usgs.gov/Feature/14933</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>84.52235543239786,-33.62349146794124</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Caparronia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 53.1980019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14876">http://planetarynames.wr.usgs.gov/Feature/14876</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-42.970550275004825,35.70893836978032</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Charito</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.5539999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15203">http://planetarynames.wr.usgs.gov/Feature/15203</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.71466064453712,-44.80499267578434</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Claudia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.568000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14877">http://planetarynames.wr.usgs.gov/Feature/14877</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.0,-1.648065185550285</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Coelia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.0600004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15204">http://planetarynames.wr.usgs.gov/Feature/15204</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.17504882810934,-1.1425781250000588</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cornelia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.8959999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14905">http://planetarynames.wr.usgs.gov/Feature/14905</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>15.56921386718749,-9.365917968749736</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cossinia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.717km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15205">http://planetarynames.wr.usgs.gov/Feature/15205</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.96069335938685,0.6262207031250193</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Divalia Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 549.367981km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14911">http://planetarynames.wr.usgs.gov/Feature/14911</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-163.76953125,-9.052734375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Domitia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14878">http://planetarynames.wr.usgs.gov/Feature/14878</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-22.035156250005173,37.61523437499941</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Domna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.5290003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15052">http://planetarynames.wr.usgs.gov/Feature/15052</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-134.07036132811803,-11.109863281250695</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Drusilla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.3360004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14934">http://planetarynames.wr.usgs.gov/Feature/14934</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>51.21652832031186,-15.045068359375342</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eumachia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.7819996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15053">http://planetarynames.wr.usgs.gov/Feature/15053</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-42.93515624999486,0.1416992187499898</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eusebia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.4430008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14935">http://planetarynames.wr.usgs.gov/Feature/14935</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-5.688964843735334,-42.035205078125884</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eutropia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.0949993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15054">http://planetarynames.wr.usgs.gov/Feature/15054</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-104.98571777344492,22.39999999999965</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fabia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.6230001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14936">http://planetarynames.wr.usgs.gov/Feature/14936</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>55.76047363281255,15.534082031249543</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fausta</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.14400005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15206">http://planetarynames.wr.usgs.gov/Feature/15206</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>99.76135253910425,-25.438842773447117</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Feralia Planitia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 270.266998km<br/>
+            FeatureType: Planitia, planitiae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14915">http://planetarynames.wr.usgs.gov/Feature/14915</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>101.71371374633782,3.0324149586411693</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Flavola</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.86899996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15207">http://planetarynames.wr.usgs.gov/Feature/15207</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.44256591735666,-9.162597656266602</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Floronia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.5419998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14879">http://planetarynames.wr.usgs.gov/Feature/14879</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>94.06372070312142,36.23071289062417</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fonteia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.6110001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15055">http://planetarynames.wr.usgs.gov/Feature/15055</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-68.59233398437289,-53.25380859375111</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fulvia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.7269993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15208">http://planetarynames.wr.usgs.gov/Feature/15208</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.35498046872056,-26.125488281252185</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fundania</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.2290001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15209">http://planetarynames.wr.usgs.gov/Feature/15209</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-74.97949218748369,57.62329101562707</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Galeria</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.7670002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15056">http://planetarynames.wr.usgs.gov/Feature/15056</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>18.375830078124974,-29.82309570312497</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gegania</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.3349991km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14880">http://planetarynames.wr.usgs.gov/Feature/14880</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-149.23291015624437,4.054931640625004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Graecina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.9259996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15210">http://planetarynames.wr.usgs.gov/Feature/15210</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.98645019533427,-37.45239257811981</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Helena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.059km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14906">http://planetarynames.wr.usgs.gov/Feature/14906</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-87.44726562501285,-41.50986328124767</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Herennia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.3349991km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15211">http://planetarynames.wr.usgs.gov/Feature/15211</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.331542968750032,-72.42187500000023</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hortensia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.4470005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15255">http://planetarynames.wr.usgs.gov/Feature/15255</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>165.3837890625068,-46.84570312500062</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Iuinia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.03299999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15212">http://planetarynames.wr.usgs.gov/Feature/15212</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.7801513656025,-35.57647705101839</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Justina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.62099981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14937">http://planetarynames.wr.usgs.gov/Feature/14937</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>107.87583007813986,-34.41098632812987</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laelia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.89299965km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14938">http://planetarynames.wr.usgs.gov/Feature/14938</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-69.55163574234103,-46.82197265622429</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laeta</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.36500001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15213">http://planetarynames.wr.usgs.gov/Feature/15213</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.09704590522057,14.900207519228754</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laurentia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.4820004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15214">http://planetarynames.wr.usgs.gov/Feature/15214</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>92.80371093749424,-28.146972656248607</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lavinium Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.3499985km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15064">http://planetarynames.wr.usgs.gov/Feature/15064</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>109.15234375,27.15380859375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lepida</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 42.9039993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14939">http://planetarynames.wr.usgs.gov/Feature/14939</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>96.76484374999677,16.743945312499942</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Licinia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 24.0510006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14940">http://planetarynames.wr.usgs.gov/Feature/14940</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.35385742187037,23.33520507812557</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lollia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.90399981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15215">http://planetarynames.wr.usgs.gov/Feature/15215</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-117.6690673826852,-37.36175537111272</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Longina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.6480007km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15216">http://planetarynames.wr.usgs.gov/Feature/15216</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>20.65100097656247,36.963500976562884</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lucaria Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 24.7460003km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14881">http://planetarynames.wr.usgs.gov/Feature/14881</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-106.3537597656235,-12.901123046874735</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lucilla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.302km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15217">http://planetarynames.wr.usgs.gov/Feature/15217</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-60.88183593751745,-75.95947265624558</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lupercalia Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 82.2750015km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15232">http://planetarynames.wr.usgs.gov/Feature/15232</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-117.3955078125,10.3271484375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mamilia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 35.6699982km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15057">http://planetarynames.wr.usgs.gov/Feature/15057</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>82.08793945312293,48.38901367187434</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Marcia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 67.5970001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14882">http://planetarynames.wr.usgs.gov/Feature/14882</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.452104534707928,8.978621629815803</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mariamne</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.3320007km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15218">http://planetarynames.wr.usgs.gov/Feature/15218</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-9.268066406240735,-68.44482421875173</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Matronalia Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 209.494995km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14917">http://planetarynames.wr.usgs.gov/Feature/14917</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-127.23984375,-49.41650390625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Metrodora</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.9899998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15219">http://planetarynames.wr.usgs.gov/Feature/15219</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>100.53808593750416,-59.42504882812611</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Minervina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.3409996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15220">http://planetarynames.wr.usgs.gov/Feature/15220</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-160.70581054686045,16.85302734375093</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Minucia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.1480007km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14907">http://planetarynames.wr.usgs.gov/Feature/14907</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-2.7999511718968506,20.199999999998965</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Myia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.58500004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15058">http://planetarynames.wr.usgs.gov/Feature/15058</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.66486816371611,-50.52746582038395</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Neptunalia Dorsa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 83.1269989km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15230">http://planetarynames.wr.usgs.gov/Feature/15230</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>80.7451171875,-45.14306640625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Numisia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.9360008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14883">http://planetarynames.wr.usgs.gov/Feature/14883</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.250488281250036,-7.48339843750001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Occia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.34200001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14941">http://planetarynames.wr.usgs.gov/Feature/14941</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.48020019527127,-15.471411132809157</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Octavia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.6240005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14942">http://planetarynames.wr.usgs.gov/Feature/14942</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-62.79345703123738,-3.3000000000001126</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oppia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.6720009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14884">http://planetarynames.wr.usgs.gov/Feature/14884</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>99.0844744194537,-7.89340678778238</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Paculla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.3390007km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15221">http://planetarynames.wr.usgs.gov/Feature/15221</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.14990234374673,-64.21508789062135</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Parentatio Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 99.3410034km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15233">http://planetarynames.wr.usgs.gov/Feature/15233</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>107.58704705576643,-73.74654660621312</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Parilia Dorsa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 79.6500015km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15231">http://planetarynames.wr.usgs.gov/Feature/15231</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>123.84462890625,-56.7138671875</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Paulina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.1299992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15059">http://planetarynames.wr.usgs.gov/Feature/15059</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>133.10878906251367,10.923095703125536</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Perpennia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.3570004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15222">http://planetarynames.wr.usgs.gov/Feature/15222</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-101.24780273439166,-23.02734374999795</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pinaria</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.7599983km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14885">http://planetarynames.wr.usgs.gov/Feature/14885</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-178.36650721514366,-29.537889876720957</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Placidia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.7519999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15223">http://planetarynames.wr.usgs.gov/Feature/15223</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-78.61816406249505,19.24255371093785</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Plancia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.4750004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15224">http://planetarynames.wr.usgs.gov/Feature/15224</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-16.092773437518986,61.5563964843705</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pomponia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.0660019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15060">http://planetarynames.wr.usgs.gov/Feature/15060</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-97.41708023461854,70.20342382618414</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Portia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.4429998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15225">http://planetarynames.wr.usgs.gov/Feature/15225</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.82580566404593,0.9063720703124949</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Postumia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 195.893005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15226">http://planetarynames.wr.usgs.gov/Feature/15226</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>33.76757812500001,33.83789062499999</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Publicia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.7860003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14943">http://planetarynames.wr.usgs.gov/Feature/14943</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-125.63515625000167,14.532958984375433</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rheasilvia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 450.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14886">http://planetarynames.wr.usgs.gov/Feature/14886</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>86.30307745701775,-71.95059914667152</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Robigalia Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 79.2129974km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15063">http://planetarynames.wr.usgs.gov/Feature/15063</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>19.7841796875,-14.04052734375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rubria</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.2720003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14944">http://planetarynames.wr.usgs.gov/Feature/14944</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.34287109376203,-7.320349121093273</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rufillia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.7860003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15227">http://planetarynames.wr.usgs.gov/Feature/15227</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-71.28698730467579,-12.919921875000732</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Saturnalia Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 344.941986km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14912">http://planetarynames.wr.usgs.gov/Feature/14912</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.0546875,28.051171875</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Scantia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.6130009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14945">http://planetarynames.wr.usgs.gov/Feature/14945</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>64.65273437499972,29.631835937499858</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sentia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.5380001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15256">http://planetarynames.wr.usgs.gov/Feature/15256</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>170.75390624999625,-38.3917236328113</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Serena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.4740009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14946">http://planetarynames.wr.usgs.gov/Feature/14946</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-89.29121093750092,-20.434082031250583</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Severina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.7439995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14908">http://planetarynames.wr.usgs.gov/Feature/14908</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-88.45488281248981,-75.41015625000253</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sextilia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.4799995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14887">http://planetarynames.wr.usgs.gov/Feature/14887</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-64.06811523439029,-38.99999999999861</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sossia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.10700035km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14947">http://planetarynames.wr.usgs.gov/Feature/14947</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>75.76209716797149,-36.77802734375118</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tarpeia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.2900009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14909">http://planetarynames.wr.usgs.gov/Feature/14909</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.29567703303977,-69.46527352594732</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Teia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.69399977km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14948">http://planetarynames.wr.usgs.gov/Feature/14948</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>61.06372070312567,-3.4357055664062295</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Torquata</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.7340012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15061">http://planetarynames.wr.usgs.gov/Feature/15061</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>143.7780761718807,46.45493164062526</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tuccia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.6450005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14888">http://planetarynames.wr.usgs.gov/Feature/14888</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-13.194458007573473,-39.857177734403045</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Urbinia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 24.2450008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14889">http://planetarynames.wr.usgs.gov/Feature/14889</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>66.26147460937452,-29.879150390624712</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Varronilla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 158.453995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15228">http://planetarynames.wr.usgs.gov/Feature/15228</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>179.57812499999974,29.619140624999925</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Veneneia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 400.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14949">http://planetarynames.wr.usgs.gov/Feature/14949</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-54.32404354493917,-47.931674285309754</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vestalia Terra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 335.562988km<br/>
+            FeatureType: Terra, terrae<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14914">http://planetarynames.wr.usgs.gov/Feature/14914</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>33.47056075228249,-3.734611636922074</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vettenia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.8880005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15229">http://planetarynames.wr.usgs.gov/Feature/15229</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.6911621093683,4.795532226562395</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vibidia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Vesta<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14910">http://planetarynames.wr.usgs.gov/Feature/14910</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.303796386719938,-26.963171386717903</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Antony
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>47</diameter>
+        
+        
+          <centerlatitude>-27.5</centerlatitude>
+          <centerlongitude>65.4</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero in &#034;Anthony and Cleopatra.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Caesar
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>76</diameter>
+        
+        
+          <centerlatitude>-26.6</centerlatitude>
+          <centerlongitude>61.1</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero in &#034;Julius Caesar.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Coriolanus
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>120</diameter>
+        
+        
+          <centerlatitude>-11.4</centerlatitude>
+          <centerlongitude>345.2</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Falstaff
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>124</diameter>
+        
+        
+          <centerlatitude>-22.1</centerlatitude>
+          <centerlongitude>19</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean character in &#034;Merry Wives of Windsor.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Hamlet
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>206</diameter>
+        
+        
+          <centerlatitude>-46.1</centerlatitude>
+          <centerlongitude>44.4</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Lear
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>126</diameter>
+        
+        
+          <centerlatitude>-5.4</centerlatitude>
+          <centerlongitude>31.5</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero in &#034;King Lear.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Macbeth
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>203</diameter>
+        
+        
+          <centerlatitude>-58.4</centerlatitude>
+          <centerlongitude>112.5</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean hero.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Mommur Chasma
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>537</diameter>
+        
+        
+          <centerlatitude>-16.3</centerlatitude>
+          <centerlongitude>323.5</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Spirit place, forest home of Oberon in &#034;Midsummer Night&#039;s Dream.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Othello
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>114</diameter>
+        
+        
+          <centerlatitude>-66</centerlatitude>
+          <centerlongitude>42.9</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean character.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Romeo
+            
+          </name>
+        
+        
+        
+          <target>OBERON</target>
+          <system>URANUS</system>
+        
+        
+          <diameter>159</diameter>
+        
+        
+          <centerlatitude>-28.7</centerlatitude>
+          <centerlongitude>89.4</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1988-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Shakespearean character in &#034;Romeo and Juliet.&#034;</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

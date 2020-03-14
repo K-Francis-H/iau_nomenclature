@@ -1,0 +1,2494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Adal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/44">http://planetarynames.wr.usgs.gov/Feature/44</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.69999999999999,75.50000000000648</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Adlinda</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 840.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/54">http://planetarynames.wr.usgs.gov/Feature/54</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.60000000000002,-48.49999999996286</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aegir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 53.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/63">http://planetarynames.wr.usgs.gov/Feature/63</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.80000000000001,-45.79999999993855</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Agloolik</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/86">http://planetarynames.wr.usgs.gov/Feature/86</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-82.39999999999998,-47.69999999994864</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ägröi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 67.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6940">http://planetarynames.wr.usgs.gov/Feature/6940</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-10.899999999999977,43.19999999996679</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ahti</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/102">http://planetarynames.wr.usgs.gov/Feature/102</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-102.39999999999998,41.39999999993547</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ajleke</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 70.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/123">http://planetarynames.wr.usgs.gov/Feature/123</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-101.39999999999998,22.699999999987277</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Akycha</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 81.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/143">http://planetarynames.wr.usgs.gov/Feature/143</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>41.3,72.59999999998799</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alfr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/180">http://planetarynames.wr.usgs.gov/Feature/180</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>137.3,-9.900000000005573</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Áli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6935">http://planetarynames.wr.usgs.gov/Feature/6935</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-55.89999999999998,58.999999999988546</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ánarr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6936">http://planetarynames.wr.usgs.gov/Feature/6936</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-0.5,43.99999999994238</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aningan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 287.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6779">http://planetarynames.wr.usgs.gov/Feature/6779</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-8.199999999999989,50.50000000003884</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arcas</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/349">http://planetarynames.wr.usgs.gov/Feature/349</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.5,-85.60000000000385</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Asgard</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1400.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/420">http://planetarynames.wr.usgs.gov/Feature/420</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-139.9,32.19999999996682</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Askr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.8000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/429">http://planetarynames.wr.usgs.gov/Feature/429</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>35.9,51.800000000004246</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Audr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.8000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/468">http://planetarynames.wr.usgs.gov/Feature/468</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.60000000000002,-30.89999999998764</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Austri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/491">http://planetarynames.wr.usgs.gov/Feature/491</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-64.5,-80.90000000000785</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aziren</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/523">http://planetarynames.wr.usgs.gov/Feature/523</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-178.2,35.399999999999515</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Balkr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/578">http://planetarynames.wr.usgs.gov/Feature/578</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-11.699999999999989,28.899999999988946</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Barri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 69.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/615">http://planetarynames.wr.usgs.gov/Feature/615</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-70.5,-31.500000000000224</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bavörr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 85.3000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/643">http://planetarynames.wr.usgs.gov/Feature/643</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-20.0,49.099999999995674</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Beli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/669">http://planetarynames.wr.usgs.gov/Feature/669</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-80.19999999999999,62.60000000003658</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Biflindi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/740">http://planetarynames.wr.usgs.gov/Feature/740</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-74.10000000000002,-53.599999999976575</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bragi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/858">http://planetarynames.wr.usgs.gov/Feature/858</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-60.69999999999999,75.50000000000648</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Brami</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.6999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/861">http://planetarynames.wr.usgs.gov/Feature/861</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-19.0,28.80000000000775</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bran</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/862">http://planetarynames.wr.usgs.gov/Feature/862</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>154.4,-24.200000000010444</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Buga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/911">http://planetarynames.wr.usgs.gov/Feature/911</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>36.1,22.299999999994363</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Buri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 86.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/923">http://planetarynames.wr.usgs.gov/Feature/923</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-45.5,-37.499999999907985</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Burr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/927">http://planetarynames.wr.usgs.gov/Feature/927</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-134.5,42.69999999999937</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dag</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 46.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1386">http://planetarynames.wr.usgs.gov/Feature/1386</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-73.30000000000001,58.49999999999556</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Danr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1404">http://planetarynames.wr.usgs.gov/Feature/1404</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-76.89999999999998,62.49999999996264</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Debegey</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 125.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14134">http://planetarynames.wr.usgs.gov/Feature/14134</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-166.2,10.200000000009211</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1520">http://planetarynames.wr.usgs.gov/Feature/1520</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-50.5,72.99999999998907</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Doh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1563">http://planetarynames.wr.usgs.gov/Feature/1563</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-141.4,30.60000000001305</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dryops</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1646">http://planetarynames.wr.usgs.gov/Feature/1646</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-34.80000000000001,80.00000000000604</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Durinn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 51.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1672">http://planetarynames.wr.usgs.gov/Feature/1672</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-89.10000000000002,66.99999999997787</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Egdir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1727">http://planetarynames.wr.usgs.gov/Feature/1727</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.89999999999998,33.90000000001474</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Egres</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1732">http://planetarynames.wr.usgs.gov/Feature/1732</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.6,42.50000000002295</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eikin Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 223.100006km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1738">http://planetarynames.wr.usgs.gov/Feature/1738</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-15.5,-8.900000000007601</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Erlik</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.6000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1835">http://planetarynames.wr.usgs.gov/Feature/1835</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-1.3000000000000114,66.79999999998479</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fadir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1897">http://planetarynames.wr.usgs.gov/Feature/1897</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.600000000000023,56.600000000002716</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fili</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1953">http://planetarynames.wr.usgs.gov/Feature/1953</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.3,64.20000000001363</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fimbulthul Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 287.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1954">http://planetarynames.wr.usgs.gov/Feature/1954</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-64.80000000000001,8.199999999994366</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Finnr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1957">http://planetarynames.wr.usgs.gov/Feature/1957</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.300000000000011,15.499999999987693</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Freki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2020">http://planetarynames.wr.usgs.gov/Feature/2020</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.3,79.8000000000055</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Frodi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2029">http://planetarynames.wr.usgs.gov/Feature/2029</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-139.9,68.40000000001383</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fulla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2038">http://planetarynames.wr.usgs.gov/Feature/2038</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.1,73.99999999997667</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fulnir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2039">http://planetarynames.wr.usgs.gov/Feature/2039</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-35.30000000000001,60.10000000001804</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gandalfr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2088">http://planetarynames.wr.usgs.gov/Feature/2088</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-63.60000000000002,-80.50000000001836</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Geirvimul Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 113.099998km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2135">http://planetarynames.wr.usgs.gov/Feature/2135</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.8,48.90000000002684</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Geri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2146">http://planetarynames.wr.usgs.gov/Feature/2146</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>6.2,66.69999999996404</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ginandi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2169">http://planetarynames.wr.usgs.gov/Feature/2169</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-52.10000000000002,-85.29999999999815</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gipul Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 641.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2174">http://planetarynames.wr.usgs.gov/Feature/2174</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-54.19999999999999,68.49999999997878</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gisl</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2180">http://planetarynames.wr.usgs.gov/Feature/2180</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-34.60000000000002,57.19999999999826</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gloi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 115.300003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2192">http://planetarynames.wr.usgs.gov/Feature/2192</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>115.0,48.99999999998088</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Göll</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 55.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2303">http://planetarynames.wr.usgs.gov/Feature/2303</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>40.3,57.299999999956114</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gomul Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 342.600006km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2217">http://planetarynames.wr.usgs.gov/Feature/2217</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-47.10000000000002,35.5000000000062</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Göndul</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2304">http://planetarynames.wr.usgs.gov/Feature/2304</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-114.1,60.0000000000434</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Grimr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 103.199997km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2254">http://planetarynames.wr.usgs.gov/Feature/2254</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>145.4,41.50000000007986</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gunnr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2285">http://planetarynames.wr.usgs.gov/Feature/2285</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-104.69999999999999,64.60000000004185</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gunntro Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 149.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2286">http://planetarynames.wr.usgs.gov/Feature/2286</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>16.9,-19.500000000003425</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gymir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2301">http://planetarynames.wr.usgs.gov/Feature/2301</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.80000000000001,63.70000000002718</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hábrok</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2618">http://planetarynames.wr.usgs.gov/Feature/2618</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-131.9,76.19999999998996</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Haki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.1999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2318">http://planetarynames.wr.usgs.gov/Feature/2318</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.9,24.99999999999387</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hár</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 52.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2619">http://planetarynames.wr.usgs.gov/Feature/2619</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>2.0,-3.499999999999767</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Heimdall</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 210.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2413">http://planetarynames.wr.usgs.gov/Feature/2413</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>3.0,-63.50000000001631</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hepti</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 48.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2460">http://planetarynames.wr.usgs.gov/Feature/2460</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-23.399999999999977,64.50000000002568</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hijsi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2500">http://planetarynames.wr.usgs.gov/Feature/2500</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.5,63.099999999963025</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hödr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 76.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2622">http://planetarynames.wr.usgs.gov/Feature/2622</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-89.19999999999999,69.10000000000375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hoenir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 81.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2531">http://planetarynames.wr.usgs.gov/Feature/2531</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>99.1,-33.70000000006604</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Högni</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 76.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2623">http://planetarynames.wr.usgs.gov/Feature/2623</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.800000000000011,-11.800000000012886</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Höldr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2624">http://planetarynames.wr.usgs.gov/Feature/2624</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.19999999999999,43.900000000056785</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Igaluk</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 111.699997km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2655">http://planetarynames.wr.usgs.gov/Feature/2655</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.0,5.599999999993537</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ilma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 102.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2667">http://planetarynames.wr.usgs.gov/Feature/2667</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-167.2,-29.89999999999034</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ivarr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 73.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2760">http://planetarynames.wr.usgs.gov/Feature/2760</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>38.6,-5.799999999991494</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jalkr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 93.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2789">http://planetarynames.wr.usgs.gov/Feature/2789</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-82.69999999999999,-38.59999999998701</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jumal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2862">http://planetarynames.wr.usgs.gov/Feature/2862</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.0,58.90000000002211</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jumo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2866">http://planetarynames.wr.usgs.gov/Feature/2866</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-11.800000000000011,65.69999999999655</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kári</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3178">http://planetarynames.wr.usgs.gov/Feature/3178</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.30000000000001,48.20000000008188</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Karl</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2929">http://planetarynames.wr.usgs.gov/Feature/2929</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>29.4,56.40000000006221</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Keelut</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 64.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2978">http://planetarynames.wr.usgs.gov/Feature/2978</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-90.89999999999998,-76.79999999998398</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kol Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 390.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14135">http://planetarynames.wr.usgs.gov/Feature/14135</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>77.3,4.500000000004893</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kul&#039;</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3147">http://planetarynames.wr.usgs.gov/Feature/3147</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.9,62.89999999999637</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lempo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3343">http://planetarynames.wr.usgs.gov/Feature/3343</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>40.1,-25.199999999997186</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ljekio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3431">http://planetarynames.wr.usgs.gov/Feature/3431</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-162.3,49.099999999995674</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lodurr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3447">http://planetarynames.wr.usgs.gov/Feature/3447</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>89.9,-50.79999999999386</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lofn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 200.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3451">http://planetarynames.wr.usgs.gov/Feature/3451</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-22.30000000000001,-56.50000000003742</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Loni</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 85.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3466">http://planetarynames.wr.usgs.gov/Feature/3466</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>145.7,-3.599999999984967</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Losy</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 62.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3477">http://planetarynames.wr.usgs.gov/Feature/3477</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>36.7,65.30000000002828</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lycaon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3527">http://planetarynames.wr.usgs.gov/Feature/3527</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-5.899999999999977,-45.400000000000944</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maderatcha</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 66.1999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3565">http://planetarynames.wr.usgs.gov/Feature/3565</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-95.30000000000001,30.69999999998845</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mera</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3847">http://planetarynames.wr.usgs.gov/Feature/3847</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.19999999999999,64.10000000003544</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mimir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3907">http://planetarynames.wr.usgs.gov/Feature/3907</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-53.19999999999999,32.60000000003209</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mitsina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3936">http://planetarynames.wr.usgs.gov/Feature/3936</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.69999999999999,57.499999999969525</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Modi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3940">http://planetarynames.wr.usgs.gov/Feature/3940</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.30000000000001,66.3999999999658</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nakki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4118">http://planetarynames.wr.usgs.gov/Feature/4118</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-69.69999999999999,-56.40000000006221</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nama</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.1000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4123">http://planetarynames.wr.usgs.gov/Feature/4123</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>29.0,56.99999999998484</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nár</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4378">http://planetarynames.wr.usgs.gov/Feature/4378</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-46.0,-1.5000000000008673</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nerrivik</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4218">http://planetarynames.wr.usgs.gov/Feature/4218</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-56.39999999999998,-16.89999999998604</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nidi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 49.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4255">http://planetarynames.wr.usgs.gov/Feature/4255</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-94.89999999999998,66.3999999999658</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nirkes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4308">http://planetarynames.wr.usgs.gov/Feature/4308</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.3,31.400000000011342</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Njord</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4317">http://planetarynames.wr.usgs.gov/Feature/4317</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-132.6,16.699999999997512</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nori</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 114.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4334">http://planetarynames.wr.usgs.gov/Feature/4334</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>16.4,45.20000000002607</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Norov-Ava</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4338">http://planetarynames.wr.usgs.gov/Feature/4338</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-112.80000000000001,54.59999999999454</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nuada</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 66.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4350">http://planetarynames.wr.usgs.gov/Feature/4350</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>87.5,62.29999999997921</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Numi-Torum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4355">http://planetarynames.wr.usgs.gov/Feature/4355</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-92.89999999999998,-50.099999999940515</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nyctimus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4372">http://planetarynames.wr.usgs.gov/Feature/4372</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-3.8999999999999773,-62.7999999999948</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oluksak</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 86.6999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4447">http://planetarynames.wr.usgs.gov/Feature/4447</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-63.5,-47.80000000001966</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Omol&#039;</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4460">http://planetarynames.wr.usgs.gov/Feature/4460</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.9,42.30000000000531</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Orestheus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4488">http://planetarynames.wr.usgs.gov/Feature/4488</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-47.69999999999999,-46.69999999995919</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oski</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 48.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4510">http://planetarynames.wr.usgs.gov/Feature/4510</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>91.0,57.499999999969525</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ottar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4524">http://planetarynames.wr.usgs.gov/Feature/4524</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.89999999999998,61.49999999999933</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pekko</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 62.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4636">http://planetarynames.wr.usgs.gov/Feature/4636</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-5.399999999999977,18.299999999989232</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Randver</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 28.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4945">http://planetarynames.wr.usgs.gov/Feature/4945</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-53.89999999999998,-71.90000000002385</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Reginleif</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4977">http://planetarynames.wr.usgs.gov/Feature/4977</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-96.5,-66.00000000002653</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Reginn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4978">http://planetarynames.wr.usgs.gov/Feature/4978</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-90.10000000000002,39.799999999997766</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Reifnir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4983">http://planetarynames.wr.usgs.gov/Feature/4983</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-54.30000000000001,-50.79999999999386</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rigr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5033">http://planetarynames.wr.usgs.gov/Feature/5033</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>115.4,70.80000000000402</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rongoteus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 35.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5183">http://planetarynames.wr.usgs.gov/Feature/5183</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-106.1,53.599999999976575</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rota</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5199">http://planetarynames.wr.usgs.gov/Feature/5199</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.4,27.200000000002895</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Saga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.1000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5274">http://planetarynames.wr.usgs.gov/Feature/5274</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>34.1,0.6000000000013413</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sarakka</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5322">http://planetarynames.wr.usgs.gov/Feature/5322</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-53.5,-3.299999999999944</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Seqinek</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.6999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5435">http://planetarynames.wr.usgs.gov/Feature/5435</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-25.399999999999977,55.4999999999845</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sholmo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 57.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5497">http://planetarynames.wr.usgs.gov/Feature/5497</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-16.19999999999999,53.70000000001661</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sid Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 81.4000015km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5517">http://planetarynames.wr.usgs.gov/Feature/5517</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.89999999999998,49.19999999992439</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sigyn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 49.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5530">http://planetarynames.wr.usgs.gov/Feature/5530</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-29.0,35.89999999990814</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Skeggold</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 43.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5591">http://planetarynames.wr.usgs.gov/Feature/5591</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-31.899999999999977,-49.700000000029654</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sköll</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 59.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5597">http://planetarynames.wr.usgs.gov/Feature/5597</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.4,55.59999999996838</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Skuld</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 91.8000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5594">http://planetarynames.wr.usgs.gov/Feature/5594</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-37.89999999999998,9.99999999998487</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sudri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 69.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5745">http://planetarynames.wr.usgs.gov/Feature/5745</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-135.6,55.900000000050944</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sumbur</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5758">http://planetarynames.wr.usgs.gov/Feature/5758</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>34.8,67.09999999997302</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Svol Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 161.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5784">http://planetarynames.wr.usgs.gov/Feature/5784</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-37.19999999999999,10.599999999986462</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tapio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 52.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5863">http://planetarynames.wr.usgs.gov/Feature/5863</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-108.6,30.10000000000081</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thekkr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5960">http://planetarynames.wr.usgs.gov/Feature/5960</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-62.0,-80.29999999998877</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thorir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 62.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5980">http://planetarynames.wr.usgs.gov/Feature/5980</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-66.69999999999999,-31.899999999929772</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tindr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.8000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6015">http://planetarynames.wr.usgs.gov/Feature/6015</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>4.5,-2.3000000000015173</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tontu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6058">http://planetarynames.wr.usgs.gov/Feature/6058</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-100.30000000000001,27.600000000011857</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tornarsuk</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 99.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6063">http://planetarynames.wr.usgs.gov/Feature/6063</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-127.6,28.80000000000775</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tyll</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.6999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6165">http://planetarynames.wr.usgs.gov/Feature/6165</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-166.5,44.799999999956576</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tyn</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 63.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6166">http://planetarynames.wr.usgs.gov/Feature/6166</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>127.5,71.10000000003045</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uksakka</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6194">http://planetarynames.wr.usgs.gov/Feature/6194</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-42.19999999999999,-49.49999999992569</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Utgard</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 610.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6256">http://planetarynames.wr.usgs.gov/Feature/6256</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-134.0,45.00000000007912</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Valfödr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 101.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6282">http://planetarynames.wr.usgs.gov/Feature/6282</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>113.0,-1.3000000000012764</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Valhalla</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3000.0km<br/>
+            FeatureType: Large ringed feature<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6284">http://planetarynames.wr.usgs.gov/Feature/6284</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-56.0,14.700000000010045</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vali</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6285">http://planetarynames.wr.usgs.gov/Feature/6285</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>34.7,9.700000000011059</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vanapagan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 62.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6318">http://planetarynames.wr.usgs.gov/Feature/6318</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-158.5,39.49999999992832</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Veralden</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.1999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6351">http://planetarynames.wr.usgs.gov/Feature/6351</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-95.5,33.3000000000858</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vestri</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 77.3000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6370">http://planetarynames.wr.usgs.gov/Feature/6370</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-52.5,45.300000000007124</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vidarr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6381">http://planetarynames.wr.usgs.gov/Feature/6381</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>166.6,12.10000000000771</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vili</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 42.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15814">http://planetarynames.wr.usgs.gov/Feature/15814</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>144.1,32.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vitr</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.8000031km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6413">http://planetarynames.wr.usgs.gov/Feature/6413</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.6,-22.100000000006734</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vu-Murt</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6455">http://planetarynames.wr.usgs.gov/Feature/6455</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-170.3,21.499999999992845</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vutash</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 46.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6459">http://planetarynames.wr.usgs.gov/Feature/6459</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-102.30000000000001,31.599999999999632</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ymir</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 79.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6661">http://planetarynames.wr.usgs.gov/Feature/6661</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-99.69999999999999,51.50000000004205</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yuryung</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.0999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Callisto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6684">http://planetarynames.wr.usgs.gov/Feature/6684</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-85.69999999999999,-54.70000000005935</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

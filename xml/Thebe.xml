@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Zethus
+            
+          </name>
+        
+        
+        
+          <target>THEBE</target>
+          <system>JUPITER</system>
+        
+        
+          <diameter>40</diameter>
+        
+        
+          <centerlatitude>10</centerlatitude>
+          <centerlongitude>175</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                2000-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Husband of Thebe in Greek myths.</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Brabo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.140000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15789">http://planetarynames.wr.usgs.gov/Feature/15789</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.3,4.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Catafo Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0500000007km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15798">http://planetarynames.wr.usgs.gov/Feature/15798</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-5.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cendrillon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.219999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15787">http://planetarynames.wr.usgs.gov/Feature/15787</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-9.5,31.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ejima Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0700000003km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15800">http://planetarynames.wr.usgs.gov/Feature/15800</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>101.1,-32.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Horai Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.330000013km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15797">http://planetarynames.wr.usgs.gov/Feature/15797</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-63.39999999999998,32.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kibidango</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.129999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15792">http://planetarynames.wr.usgs.gov/Feature/15792</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>50.0,-31.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kintaro</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.170000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15790">http://planetarynames.wr.usgs.gov/Feature/15790</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>157.8,0.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kolobok</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.180000007km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15788">http://planetarynames.wr.usgs.gov/Feature/15788</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-26.5,-1.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Momotaro</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.189999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15791">http://planetarynames.wr.usgs.gov/Feature/15791</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>51.9,-12.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Otohime Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.159999996km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15799">http://planetarynames.wr.usgs.gov/Feature/15799</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-85.60000000000002,-69.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ryujin Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.20000005km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15780">http://planetarynames.wr.usgs.gov/Feature/15780</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-180.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tokoyo Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.560000002km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15796">http://planetarynames.wr.usgs.gov/Feature/15796</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>166.2,-50.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Urashima</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.289999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ryugu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15786">http://planetarynames.wr.usgs.gov/Feature/15786</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>92.9,-8.1</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

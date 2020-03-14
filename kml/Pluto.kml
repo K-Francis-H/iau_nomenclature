@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Adlivun Cavus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.3999996km<br/>
+            FeatureType: Cavus, cavi<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15676">http://planetarynames.wr.usgs.gov/Feature/15676</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.14,-15.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alcyonia Lacus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Lacus, lacūs<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15843">http://planetarynames.wr.usgs.gov/Feature/15843</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.95,36.44</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Al-Idrisi Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 383.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15672">http://planetarynames.wr.usgs.gov/Feature/15672</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>156.01,33.99</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Baret Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 170.391998km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15751">http://planetarynames.wr.usgs.gov/Feature/15751</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>157.8,14.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Burney</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 296.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15680">http://planetarynames.wr.usgs.gov/Feature/15680</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>133.79,45.68</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Coughlin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15867">http://planetarynames.wr.usgs.gov/Feature/15867</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.54,15.24</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Djanggawul Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 585.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15673">http://planetarynames.wr.usgs.gov/Feature/15673</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>84.31,41.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elcano Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 488.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15837">http://planetarynames.wr.usgs.gov/Feature/15837</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>143.7,-26.04</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elliot</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15681">http://planetarynames.wr.usgs.gov/Feature/15681</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>138.86,12.04</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hardie</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15868">http://planetarynames.wr.usgs.gov/Feature/15868</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>141.58,23.82</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hayabusa Terra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1115.0km<br/>
+            FeatureType: Terra, terrae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15677">http://planetarynames.wr.usgs.gov/Feature/15677</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.12,46.07</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hekla Cavus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 98.4079971km<br/>
+            FeatureType: Cavus, cavi<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15755">http://planetarynames.wr.usgs.gov/Feature/15755</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>154.66,6.86</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hermod Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 592.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15861">http://planetarynames.wr.usgs.gov/Feature/15861</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>119.34,-8.63</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hillary Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 388.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15671">http://planetarynames.wr.usgs.gov/Feature/15671</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>169.58,3.26</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hunahpu Valles</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 295.0km<br/>
+            FeatureType: Vallis, valles<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15842">http://planetarynames.wr.usgs.gov/Feature/15842</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>154.41,49.09</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hyecho Palus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 322.55899km<br/>
+            FeatureType: Palus, paludes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15870">http://planetarynames.wr.usgs.gov/Feature/15870</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.44,-17.43</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kaknú Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 249.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15852">http://planetarynames.wr.usgs.gov/Feature/15852</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>122.07,-30.45</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Khare</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15844">http://planetarynames.wr.usgs.gov/Feature/15844</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>94.56,27.85</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kiladze</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.4199982km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15832">http://planetarynames.wr.usgs.gov/Feature/15832</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-147.07794941348112,28.387779019644213</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lowell Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1215.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15838">http://planetarynames.wr.usgs.gov/Feature/15838</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-22.0,86.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mwindo Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 406.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15833">http://planetarynames.wr.usgs.gov/Feature/15833</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-114.22,34.74</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Piccard Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 257.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15834">http://planetarynames.wr.usgs.gov/Feature/15834</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.79,-35.26</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pigafetta Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 234.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15836">http://planetarynames.wr.usgs.gov/Feature/15836</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.44,-6.83</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Piri Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 549.0km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15839">http://planetarynames.wr.usgs.gov/Feature/15839</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>108.9,27.13</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Simonelli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 286.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15845">http://planetarynames.wr.usgs.gov/Feature/15845</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-45.24000000000001,12.79</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sleipnir Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 508.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15674">http://planetarynames.wr.usgs.gov/Feature/15674</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-125.49000000000001,23.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sputnik Planitia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1492.0km<br/>
+            FeatureType: Planitia, planitiae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15669">http://planetarynames.wr.usgs.gov/Feature/15669</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.69,19.51</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tabei Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 105.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15866">http://planetarynames.wr.usgs.gov/Feature/15866</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>164.33,-11.73</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tartarus Dorsa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 850.0km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15679">http://planetarynames.wr.usgs.gov/Feature/15679</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-126.91,8.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tenzing Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 283.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15670">http://planetarynames.wr.usgs.gov/Feature/15670</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>177.38,-15.61</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tombaugh Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2300.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15668">http://planetarynames.wr.usgs.gov/Feature/15668</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.78,7.62</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uncama Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 227.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15869">http://planetarynames.wr.usgs.gov/Feature/15869</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>142.62,23.96</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vega Terra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1614.0km<br/>
+            FeatureType: Terra, terrae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15841">http://planetarynames.wr.usgs.gov/Feature/15841</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>85.49,33.96</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Venera Terra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 742.0km<br/>
+            FeatureType: Terra, terrae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15840">http://planetarynames.wr.usgs.gov/Feature/15840</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>117.62,56.89</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Virgil Fossae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 710.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15675">http://planetarynames.wr.usgs.gov/Feature/15675</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>122.76,5.23</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Voyager Terra</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 843.0km<br/>
+            FeatureType: Terra, terrae<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15678">http://planetarynames.wr.usgs.gov/Feature/15678</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>153.52,60.08</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wright Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 165.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Pluto<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15835">http://planetarynames.wr.usgs.gov/Feature/15835</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>173.24,-21.36</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

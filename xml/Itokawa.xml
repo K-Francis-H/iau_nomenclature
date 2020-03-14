@@ -1,0 +1,865 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Arcoona Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.16</diameter>
+        
+        
+          <centerlatitude>28</centerlatitude>
+          <centerlongitude>202</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Place name near the Hayabusa capsule recovery site, Woomera, in Australia.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Catalina
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.02</diameter>
+        
+        
+          <centerlatitude>-17</centerlatitude>
+          <centerlongitude>14</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Catalina Observatory, near Tucson, AZ, USA.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Fuchinobe
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.04</diameter>
+        
+        
+          <centerlatitude>34</centerlatitude>
+          <centerlongitude>269</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Place name in Sagamihara, Japan.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Gando
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0</diameter>
+        
+        
+          <centerlatitude>-76</centerlatitude>
+          <centerlongitude>205</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Spanish launch facility on Gran Canaria.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Hammaguira
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.03</diameter>
+        
+        
+          <centerlatitude>-18</centerlatitude>
+          <centerlongitude>205</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>French launch site in the Sahara Desert, Algeria.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Kamisunagawa
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.01</diameter>
+        
+        
+          <centerlatitude>-28</centerlatitude>
+          <centerlongitude>45</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Town in Hokkaido, Japan, where a microgravity test facility is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Kamoi
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.01</diameter>
+        
+        
+          <centerlatitude>6</centerlatitude>
+          <centerlongitude>244</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Town in Yokohama, Japan, where a factory of NEC TOSHIBA Space Systems, Ltd. is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Komaba
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.03</diameter>
+        
+        
+          <centerlatitude>-10</centerlatitude>
+          <centerlongitude>102</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Place name in Tokyo, where the Institute of Space and Astronautical Science is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Laurel
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.02</diameter>
+        
+        
+          <centerlatitude>1</centerlatitude>
+          <centerlongitude>162</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>City in Maryland USA, where APL/JHU is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              LINEAR Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.12</diameter>
+        
+        
+          <centerlatitude>-40</centerlatitude>
+          <centerlongitude>232</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Lincoln Near Earth Asteroid Research program, discoverer of the asteroid Itokawa.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Miyabaru
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.09</diameter>
+        
+        
+          <centerlatitude>-40</centerlatitude>
+          <centerlongitude>244</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Radar site in the Uchinoura Space Center in Japan.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              MUSES-C Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.3</diameter>
+        
+        
+          <centerlatitude>-70</centerlatitude>
+          <centerlongitude>60</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                2006-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>MUSES-C, the name of the Hayabusa spacecraft prior to launch.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Ohsumi Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.14</diameter>
+        
+        
+          <centerlatitude>33</centerlatitude>
+          <centerlongitude>207</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Peninsula in Japan where the Uchiunoura Space Center is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Sagamihara Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.23</diameter>
+        
+        
+          <centerlatitude>80</centerlatitude>
+          <centerlongitude>15</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                2006-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Town in Japan where the Institute of Space and Astronautical Science is located.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              San Marco
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0</diameter>
+        
+        
+          <centerlatitude>-28</centerlatitude>
+          <centerlongitude>319</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>An old oil platform near Kenya that served as a launch pad for Italian spacecraft.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Uchinoura Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.07</diameter>
+        
+        
+          <centerlatitude>40</centerlatitude>
+          <centerlongitude>90</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                2006-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Town in Japan, launch site of the Hayabusa spacecraft.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Yoshinobu Regio
+            
+          </name>
+        
+        
+        
+          <target>ITOKAWA</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.16</diameter>
+        
+        
+          <centerlatitude>-39</centerlatitude>
+          <centerlongitude>117</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+              
+                2009-02-18 00:00:00.0
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Launch site in the Tanegashima Space Center, Japan.</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

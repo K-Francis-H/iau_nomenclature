@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Achilles</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14405">http://planetarynames.wr.usgs.gov/Feature/14405</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>35.62,0.5999999999998024</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aietes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 91.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14406">http://planetarynames.wr.usgs.gov/Feature/14406</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-6.230000000000018,-41.44000000004562</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ajax</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 88.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/121">http://planetarynames.wr.usgs.gov/Feature/121</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>78.0,-28.410000000006765</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Alcinous</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14407">http://planetarynames.wr.usgs.gov/Feature/14407</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>147.39,30.309999999965445</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amphinomus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.6000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14408">http://planetarynames.wr.usgs.gov/Feature/14408</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.7,-14.870000000033956</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anticleia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 100.699997km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/293">http://planetarynames.wr.usgs.gov/Feature/293</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-32.370000000000005,51.30999999995828</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Antinous</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 138.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/294">http://planetarynames.wr.usgs.gov/Feature/294</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>73.85,-59.88999999996866</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Arete</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/359">http://planetarynames.wr.usgs.gov/Feature/359</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>61.0,-4.670000000001665</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Circe</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 79.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1220">http://planetarynames.wr.usgs.gov/Feature/1220</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-54.660000000000025,-12.599999999956333</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Demodocus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 125.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14409">http://planetarynames.wr.usgs.gov/Feature/14409</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-18.20999999999998,-59.37000000004231</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Diomedes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 48.5699997km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14410">http://planetarynames.wr.usgs.gov/Feature/14410</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>70.58,38.119999999999415</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dolius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 190.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14411">http://planetarynames.wr.usgs.gov/Feature/14411</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>149.67,-30.149999999994556</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Elpenor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1775">http://planetarynames.wr.usgs.gov/Feature/1775</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>96.31,53.430000000041225</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Euanthes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 33.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14412">http://planetarynames.wr.usgs.gov/Feature/14412</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>121.09,7.859999999999316</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eumaeus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 30.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1867">http://planetarynames.wr.usgs.gov/Feature/1867</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-51.120000000000005,23.10000000001099</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eupithes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14413">http://planetarynames.wr.usgs.gov/Feature/14413</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.21,18.710000000004694</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eurycleia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1874">http://planetarynames.wr.usgs.gov/Feature/1874</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>113.5,52.540000000010416</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eurylochus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14414">http://planetarynames.wr.usgs.gov/Feature/14414</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-27.680000000000007,-5.069999999999406</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eurymachus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14415">http://planetarynames.wr.usgs.gov/Feature/14415</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.0,-35.649999999953785</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Halius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14416">http://planetarynames.wr.usgs.gov/Feature/14416</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-4.9599999999999795,44.40000000002424</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hermione</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.1999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14417">http://planetarynames.wr.usgs.gov/Feature/14417</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-148.69,-38.39999999999041</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Icarius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14418">http://planetarynames.wr.usgs.gov/Feature/14418</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>54.15,-5.88999999999571</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Irus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14419">http://planetarynames.wr.usgs.gov/Feature/14419</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>115.19,-27.000000000036934</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ithaca Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1219.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2751">http://planetarynames.wr.usgs.gov/Feature/2751</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-6.100000000000023,-14.000000000008807</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laertes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 51.1300011km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3225">http://planetarynames.wr.usgs.gov/Feature/3225</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.45999999999998,-46.36000000004372</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Leocritus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14420">http://planetarynames.wr.usgs.gov/Feature/14420</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.66,21.530000000027645</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Leucothea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.8000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14421">http://planetarynames.wr.usgs.gov/Feature/14421</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-123.84,-4.259999999996551</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maron</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.8000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14422">http://planetarynames.wr.usgs.gov/Feature/14422</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.33000000000001,2.5199999999989244</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Medon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14423">http://planetarynames.wr.usgs.gov/Feature/14423</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-143.31,25.500000000020233</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Melanthius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 250.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3811">http://planetarynames.wr.usgs.gov/Feature/3811</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>167.39,-58.4999999999635</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mentor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 62.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3844">http://planetarynames.wr.usgs.gov/Feature/3844</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-44.160000000000025,0.24999999999976547</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Naubolos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 54.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14425">http://planetarynames.wr.usgs.gov/Feature/14425</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>54.82,-72.18999999998258</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nausicaa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 69.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4168">http://planetarynames.wr.usgs.gov/Feature/4168</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-5.0,84.40000000000663</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Neleus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.5999985km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14424">http://planetarynames.wr.usgs.gov/Feature/14424</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-25.720000000000027,-19.379999999964976</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nestor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4221">http://planetarynames.wr.usgs.gov/Feature/4221</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-64.81,-53.9999999999775</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Odysseus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 445.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4406">http://planetarynames.wr.usgs.gov/Feature/4406</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.89,32.82000000000128</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oenops</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14427">http://planetarynames.wr.usgs.gov/Feature/14427</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-93.44,28.129999999955253</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ogygia Chasma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 120.0km<br/>
+            FeatureType: Chasma, chasmata<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14436">http://planetarynames.wr.usgs.gov/Feature/14436</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-95.19999999999999,56.00000000000016</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ormenus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14426">http://planetarynames.wr.usgs.gov/Feature/14426</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-43.85000000000002,-20.3899999999714</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Penelope</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 207.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4645">http://planetarynames.wr.usgs.gov/Feature/4645</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>110.78,-10.830000000046166</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Periboea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 51.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14428">http://planetarynames.wr.usgs.gov/Feature/14428</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-34.860000000000014,7.999999999995513</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phemius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 75.9000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4685">http://planetarynames.wr.usgs.gov/Feature/4685</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>73.78,11.319999999979204</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Philoetius</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 28.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14429">http://planetarynames.wr.usgs.gov/Feature/14429</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>175.29,2.3200000000008756</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Polycaste</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14430">http://planetarynames.wr.usgs.gov/Feature/14430</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-86.41000000000003,1.3800000000005348</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Polyphemus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 73.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4788">http://planetarynames.wr.usgs.gov/Feature/4788</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>77.02,-3.4800000000005955</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Poseidon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 63.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14431">http://planetarynames.wr.usgs.gov/Feature/14431</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-101.30000000000001,-55.70999999997302</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rhexenor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14432">http://planetarynames.wr.usgs.gov/Feature/14432</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.22000000000003,-75.62999999998205</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Salmoneus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 93.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14433">http://planetarynames.wr.usgs.gov/Feature/14433</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>24.82,-1.7699999999980576</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Scheria Montes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 185.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14437">http://planetarynames.wr.usgs.gov/Feature/14437</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-131.0,29.99999999997942</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Teiresias</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5899">http://planetarynames.wr.usgs.gov/Feature/5899</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-0.8299999999999841,60.38999999996691</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Telemachus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 92.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5906">http://planetarynames.wr.usgs.gov/Feature/5906</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>20.62,53.9999999999775</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Telemus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 320.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14434">http://planetarynames.wr.usgs.gov/Feature/14434</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>3.11,-34.53000000000012</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Theoclymenus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Tethys<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14435">http://planetarynames.wr.usgs.gov/Feature/14435</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>154.37,-14.429999999960321</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

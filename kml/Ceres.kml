@@ -1,0 +1,2414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Abellio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15449">http://planetarynames.wr.usgs.gov/Feature/15449</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-66.91333007806321,33.20068359375563</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Achita</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15376">http://planetarynames.wr.usgs.gov/Feature/15376</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>65.95751953124993,25.817871093749986</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ahuna Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15409">http://planetarynames.wr.usgs.gov/Feature/15409</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-43.80041535815525,-10.477781149919243</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Annona</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15458">http://planetarynames.wr.usgs.gov/Feature/15458</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>8.433105468750007,-48.14208984375003</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Anura</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15402">http://planetarynames.wr.usgs.gov/Feature/15402</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>11.794921875000108,-13.919677734375004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aristaeus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 35.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15516">http://planetarynames.wr.usgs.gov/Feature/15516</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>97.68383789062712,23.43383789062551</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Asari</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 56.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15332">http://planetarynames.wr.usgs.gov/Feature/15332</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-40.115212273870895,83.02743581426864</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Attis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15431">http://planetarynames.wr.usgs.gov/Feature/15431</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-102.1606293825572,-73.07239065917227</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Axomama</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15649">http://planetarynames.wr.usgs.gov/Feature/15649</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>131.9,22.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aymuray Tholi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 81.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15500">http://planetarynames.wr.usgs.gov/Feature/15500</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-24.3940429686794,28.781017672710327</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Azacca</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 49.9109993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15408">http://planetarynames.wr.usgs.gov/Feature/15408</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-141.5961914062457,-6.657714843749732</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bagach Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.30000019km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15806">http://planetarynames.wr.usgs.gov/Feature/15806</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.09,20.04</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Baltay Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 83.5km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15494">http://planetarynames.wr.usgs.gov/Feature/15494</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-85.513183593745,-49.339599609375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Begbalel</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 102.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15520">http://planetarynames.wr.usgs.gov/Feature/15520</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-34.64648437500057,17.70996093749988</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Belun</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.0429993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15427">http://planetarynames.wr.usgs.gov/Feature/15427</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-3.752929687499943,-33.70605468749931</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Besua</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15429">http://planetarynames.wr.usgs.gov/Feature/15429</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-59.790893554712056,-42.34680175780645</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bilwis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15643">http://planetarynames.wr.usgs.gov/Feature/15643</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>79.6,86.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Binayo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15642">http://planetarynames.wr.usgs.gov/Feature/15642</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>145.2,86.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bonsu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15455">http://planetarynames.wr.usgs.gov/Feature/15455</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>93.21240234375041,1.7358398437500127</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Braciaca</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15525">http://planetarynames.wr.usgs.gov/Feature/15525</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>84.37390136715102,-22.774658203115575</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cacaguat</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 13.6000004km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15523">http://planetarynames.wr.usgs.gov/Feature/15523</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>143.60668945313023,-1.1865234374999916</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cachimana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15641">http://planetarynames.wr.usgs.gov/Feature/15641</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-146.8,85.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Centeotl</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15522">http://planetarynames.wr.usgs.gov/Feature/15522</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>141.21853637697637,18.954162597658804</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cerealia Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 14.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15530">http://planetarynames.wr.usgs.gov/Feature/15530</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.4,19.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cerealia Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.20000005km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15808">http://planetarynames.wr.usgs.gov/Feature/15808</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.35,19.61</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Chaminuka</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 122.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15422">http://planetarynames.wr.usgs.gov/Feature/15422</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>131.2031250000002,-58.579101562500064</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Coniraya</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 135.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15333">http://planetarynames.wr.usgs.gov/Feature/15333</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>65.72900390625011,39.90234375000007</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Consus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 64.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15480">http://planetarynames.wr.usgs.gov/Feature/15480</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-159.5,-20.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cosecha Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15499">http://planetarynames.wr.usgs.gov/Feature/15499</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.38,42.15</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cozobi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 24.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15446">http://planetarynames.wr.usgs.gov/Feature/15446</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-72.69213867182441,45.32958984375617</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dada</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15448">http://planetarynames.wr.usgs.gov/Feature/15448</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-23.24267578144412,58.62854003902786</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dalien Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15452">http://planetarynames.wr.usgs.gov/Feature/15452</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.214111328125002,3.8232421875000004</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Damia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15647">http://planetarynames.wr.usgs.gov/Feature/15647</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-44.5,81.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dankdag Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.5km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15802">http://planetarynames.wr.usgs.gov/Feature/15802</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>39.21,78.38</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dantu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 126.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15335">http://planetarynames.wr.usgs.gov/Feature/15335</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>138.22558593750023,24.301757812500057</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Darzamat</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 92.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15419">http://planetarynames.wr.usgs.gov/Feature/15419</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>76.40332031250013,-44.208984375000036</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Datan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15381">http://planetarynames.wr.usgs.gov/Feature/15381</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-107.69238281249707,59.50195312500057</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dikhan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15644">http://planetarynames.wr.usgs.gov/Feature/15644</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>78.1,81.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Doliku</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15459">http://planetarynames.wr.usgs.gov/Feature/15459</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.882080078124996,-40.78674316406303</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Duginavi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 155.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15512">http://planetarynames.wr.usgs.gov/Feature/15512</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>4.289062500000512,39.19921874999999</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Emesh</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15662">http://planetarynames.wr.usgs.gov/Feature/15662</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>158.2,11.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Enkimdu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15646">http://planetarynames.wr.usgs.gov/Feature/15646</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-100.89999999999998,78.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Erntedank Planum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 555.0km<br/>
+            FeatureType: Planum, plana<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15442">http://planetarynames.wr.usgs.gov/Feature/15442</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.0,15.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ernutet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 53.4029999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15377">http://planetarynames.wr.usgs.gov/Feature/15377</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>45.52294921875051,52.93212890625052</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ezinu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 116.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15336">http://planetarynames.wr.usgs.gov/Feature/15336</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.30273437499812,43.242187500000476</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fejokoo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15337">http://planetarynames.wr.usgs.gov/Feature/15337</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-47.89379882810937,29.14672851562581</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fluusa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15423">http://planetarynames.wr.usgs.gov/Feature/15423</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.22460937499758,-31.311035156249524</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gaue</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15334">http://planetarynames.wr.usgs.gov/Feature/15334</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>86.16357421874933,30.80566406249975</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gerber Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 100.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15425">http://planetarynames.wr.usgs.gov/Feature/15425</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-144.5009765625,-38.29833984375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Geshtin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 80.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15382">http://planetarynames.wr.usgs.gov/Feature/15382</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-101.18847656250085,56.997070312499766</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ghanan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15371">http://planetarynames.wr.usgs.gov/Feature/15371</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>30.756453233238496,76.55880714647381</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hakumyi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.2000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15513">http://planetarynames.wr.usgs.gov/Feature/15513</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>27.747070312500117,51.416015625000206</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Halki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15658">http://planetarynames.wr.usgs.gov/Feature/15658</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-25.399999999999977,25.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hamori</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 60.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15420">http://planetarynames.wr.usgs.gov/Feature/15420</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>79.43554687500115,-60.86425781250086</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hanami Planum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 555.0km<br/>
+            FeatureType: Planum, plana<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15488">http://planetarynames.wr.usgs.gov/Feature/15488</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.0,15.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hatipowa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15524">http://planetarynames.wr.usgs.gov/Feature/15524</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-2.289550781281662,-16.08398437499851</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Haulani</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15338">http://planetarynames.wr.usgs.gov/Feature/15338</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.773193359375023,5.800781250000014</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Heneb</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 39.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15407">http://planetarynames.wr.usgs.gov/Feature/15407</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-168.9631347656105,10.865478515625579</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Homshuk</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 70.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15405">http://planetarynames.wr.usgs.gov/Feature/15405</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>94.06054687500036,11.228027343750039</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hosil Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15502">http://planetarynames.wr.usgs.gov/Feature/15502</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-39.29000000000002,43.31</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ialonus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15518">http://planetarynames.wr.usgs.gov/Feature/15518</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.53137207036016,48.15307617188748</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ikapati</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15374">http://planetarynames.wr.usgs.gov/Feature/15374</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>45.610839843750306,33.837890625000234</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Inamahari</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15403">http://planetarynames.wr.usgs.gov/Feature/15403</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>89.2163838371113,14.13363672428812</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Inkosazana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15650">http://planetarynames.wr.usgs.gov/Feature/15650</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>155.1,31.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Insitor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15454">http://planetarynames.wr.usgs.gov/Feature/15454</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>124.87280273437302,-10.711669921874284</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jacheongbi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15666">http://planetarynames.wr.usgs.gov/Feature/15666</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>2.3,-69.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jaja</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15380">http://planetarynames.wr.usgs.gov/Feature/15380</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>125.27050781250847,52.08618164062177</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jarimba</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 69.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15417">http://planetarynames.wr.usgs.gov/Feature/15417</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>21.251953124999982,-24.08203124999998</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jarovit</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 66.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15373">http://planetarynames.wr.usgs.gov/Feature/15373</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.26074218750063,67.89550781249989</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Juling</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15450">http://planetarynames.wr.usgs.gov/Feature/15450</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.47753906247053,-35.90332031249248</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jumis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 15.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15655">http://planetarynames.wr.usgs.gov/Feature/15655</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-43.60000000000002,51.6</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Junina Catenae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 263.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15489">http://planetarynames.wr.usgs.gov/Feature/15489</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-145.05688476562,26.048583984375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kahukura</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.30000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15651">http://planetarynames.wr.usgs.gov/Feature/15651</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-138.6,61.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kaikara</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 72.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15443">http://planetarynames.wr.usgs.gov/Feature/15443</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-137.56640624999784,42.82470703125038</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kait</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.400000006km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15361">http://planetarynames.wr.usgs.gov/Feature/15361</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-2.1</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kaneki</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15660">http://planetarynames.wr.usgs.gov/Feature/15660</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-65.39999999999998,23.8</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kekri Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.5999999km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15807">http://planetarynames.wr.usgs.gov/Feature/15807</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-119.41,19.85</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kerwan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 280.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15339">http://planetarynames.wr.usgs.gov/Feature/15339</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>123.98730468749999,-10.766601562500012</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kiriamma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 18.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15517">http://planetarynames.wr.usgs.gov/Feature/15517</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>126.3273925781239,50.322875976560766</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kirnis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 115.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15342">http://planetarynames.wr.usgs.gov/Feature/15342</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-95.7041015625017,4.899902343749951</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kokopelli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15661">http://planetarynames.wr.usgs.gov/Feature/15661</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>124.5,18.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kondos</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 44.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15400">http://planetarynames.wr.usgs.gov/Feature/15400</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>17.31005859374993,-19.335937499999932</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kumitoga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 96.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15406">http://planetarynames.wr.usgs.gov/Feature/15406</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>178.83105468749991,-10.085449218750108</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kupalo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15451">http://planetarynames.wr.usgs.gov/Feature/15451</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>173.20385742187892,-39.44091796874976</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kwanzaa Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 48.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15501">http://planetarynames.wr.usgs.gov/Feature/15501</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.31999999999999,32.06</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laukumate</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15514">http://planetarynames.wr.usgs.gov/Feature/15514</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>159.42,65.03</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Liber</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 23.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15378">http://planetarynames.wr.usgs.gov/Feature/15378</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.802223226852085,42.55589098605416</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Liberalia Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 90.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15457">http://planetarynames.wr.usgs.gov/Feature/15457</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-48.994628906247385,6.020507812500469</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lociyo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.7999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15492">http://planetarynames.wr.usgs.gov/Feature/15492</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-131.17236328124662,-6.525878906250008</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lohri Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.79999995km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15805">http://planetarynames.wr.usgs.gov/Feature/15805</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.34,19.66</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lono</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15428">http://planetarynames.wr.usgs.gov/Feature/15428</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-55.63256835948374,-36.60644531248497</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lughnasa Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 35.868km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15779">http://planetarynames.wr.usgs.gov/Feature/15779</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-33.69999999999999,20.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Makahiki Labyrinthus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Labyrinthus, labyrinthi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15810">http://planetarynames.wr.usgs.gov/Feature/15810</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-122.16,17.49</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Meanderi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 103.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15424">http://planetarynames.wr.usgs.gov/Feature/15424</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-165.81005859375142,-40.80322265624973</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Megwomets</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 78.6999969km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15519">http://planetarynames.wr.usgs.gov/Feature/15519</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>146.22363281250134,36.54052734375034</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Messor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15445">http://planetarynames.wr.usgs.gov/Feature/15445</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-126.27246093747289,49.932861328129604</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mikeli Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 37.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15503">http://planetarynames.wr.usgs.gov/Feature/15503</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-66.62,38.62</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mlezi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 41.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15640">http://planetarynames.wr.usgs.gov/Feature/15640</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-136.8,75.9</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mondamin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 126.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15430">http://planetarynames.wr.usgs.gov/Feature/15430</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-6.0,-62.24</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nabanna Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 168.0km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15490">http://planetarynames.wr.usgs.gov/Feature/15490</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.9462890625,1.7138671875</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nar Sulcus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 63.0km<br/>
+            FeatureType: Sulcus, sulci<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15496">http://planetarynames.wr.usgs.gov/Feature/15496</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.88938824774954,-41.86340965463497</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nawish</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 77.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15340">http://planetarynames.wr.usgs.gov/Feature/15340</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-166.2143554687522,18.281249999999837</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nepen</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 26.3999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15491">http://planetarynames.wr.usgs.gov/Feature/15491</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-139.45825195311824,6.185302734375143</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Niman Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 45.0km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15421">http://planetarynames.wr.usgs.gov/Feature/15421</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>60.05126953125,-28.564453125</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ninsar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15444">http://planetarynames.wr.usgs.gov/Feature/15444</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-96.74121093752314,30.30029296874732</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nunghui</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15664">http://planetarynames.wr.usgs.gov/Feature/15664</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-87.69999999999999,-54.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Occator</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 92.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15341">http://planetarynames.wr.usgs.gov/Feature/15341</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.66503906250219,19.819335937499826</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oltagon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 28.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15460">http://planetarynames.wr.usgs.gov/Feature/15460</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.96215820312527,-25.949707031250206</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Omonga</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 77.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15375">http://planetarynames.wr.usgs.gov/Feature/15375</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>71.6704101562501,58.02978515625007</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Onam Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.80000019km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15804">http://planetarynames.wr.usgs.gov/Feature/15804</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-43.98000000000002,51.23</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oxo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15383">http://planetarynames.wr.usgs.gov/Feature/15383</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-0.39999999999997726,42.21485101955031</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pasola Facula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.9000001km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15809">http://planetarynames.wr.usgs.gov/Feature/15809</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-120.78,19.47</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Peko</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15657">http://planetarynames.wr.usgs.gov/Feature/15657</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-28.600000000000023,39.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Piuku</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15401">http://planetarynames.wr.usgs.gov/Feature/15401</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>36.98657226562414,-15.36987304687462</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pongal Catena</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 95.5km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15493">http://planetarynames.wr.usgs.gov/Feature/15493</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-92.33789062499,-37.369995117188</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rao</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15404">http://planetarynames.wr.usgs.gov/Feature/15404</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>119.01379394531358,8.102416992187147</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ratumaibulu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 20.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15667">http://planetarynames.wr.usgs.gov/Feature/15667</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>77.5,-67.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Razeka</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 38.3759995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15521">http://planetarynames.wr.usgs.gov/Feature/15521</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>61.62890624999989,-3.2080078124999902</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rongo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 68.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15343">http://planetarynames.wr.usgs.gov/Feature/15343</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-11.285156250004832,3.2080078124999605</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Roskva</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15447">http://planetarynames.wr.usgs.gov/Feature/15447</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-26.978027343755343,58.897705078124034</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Samhain Catenae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 715.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15410">http://planetarynames.wr.usgs.gov/Feature/15410</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-107.1474609375,-2.74658203125</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sedana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15656">http://planetarynames.wr.usgs.gov/Feature/15656</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-45.30000000000001,36.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sekhet</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 40.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15461">http://planetarynames.wr.usgs.gov/Feature/15461</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-104.94580078127018,-66.42333984374504</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Shakaema</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 47.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15398">http://planetarynames.wr.usgs.gov/Feature/15398</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>33.93017578124996,-3.6584472656249942</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Shennong</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15648">http://planetarynames.wr.usgs.gov/Feature/15648</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>28.1,69.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sintana</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 58.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15344">http://planetarynames.wr.usgs.gov/Feature/15344</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>46.20410156250037,-48.06518554687541</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sukkot Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.0km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15803">http://planetarynames.wr.usgs.gov/Feature/15803</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>26.81,50.55</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tafakula</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 34.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15456">http://planetarynames.wr.usgs.gov/Feature/15456</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>88.58715820312506,-19.81933593750003</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tahu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 25.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15399">http://planetarynames.wr.usgs.gov/Feature/15399</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>44.79345703125044,-6.5917968750000595</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Takel</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15385">http://planetarynames.wr.usgs.gov/Feature/15385</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-79.52343750000153,50.756835937496774</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tawals</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15495">http://planetarynames.wr.usgs.gov/Feature/15495</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-121.97982788076021,-39.057769775406165</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Telepinu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 31.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15659">http://planetarynames.wr.usgs.gov/Feature/15659</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-24.399999999999977,23.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Thrud</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15665">http://planetarynames.wr.usgs.gov/Feature/15665</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>31.0,-71.3</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tibong</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15426">http://planetarynames.wr.usgs.gov/Feature/15426</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.79589843746146,-29.81689453125347</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Toharu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 86.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15345">http://planetarynames.wr.usgs.gov/Feature/15345</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>155.94873046875136,-48.31787109375043</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tupo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 36.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15418">http://planetarynames.wr.usgs.gov/Feature/15418</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>88.3762207031232,-32.354736328124496</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uhola Catenae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 400.0km<br/>
+            FeatureType: Catena, catenae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15511">http://planetarynames.wr.usgs.gov/Feature/15511</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-73.33999999999997,-10.65</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Urvara</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 170.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15350">http://planetarynames.wr.usgs.gov/Feature/15350</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-110.75976562500011,-45.65917968749994</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vendimia Planitia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 750.0km<br/>
+            FeatureType: Planitia, planitiae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15479">http://planetarynames.wr.usgs.gov/Feature/15479</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>135.0,23.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Victa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 32.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15384">http://planetarynames.wr.usgs.gov/Feature/15384</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-58.9570312499182,36.2329101562575</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vinalia Faculae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.0km<br/>
+            FeatureType: Facula, faculae<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15531">http://planetarynames.wr.usgs.gov/Feature/15531</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-118.0,20.2</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Vinotonus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 140.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15379">http://planetarynames.wr.usgs.gov/Feature/15379</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>95.11523437499964,43.02246093749987</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Wangala Tholus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 50.0km<br/>
+            FeatureType: Tholus, tholi<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15453">http://planetarynames.wr.usgs.gov/Feature/15453</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>6.640136718750002,-21.62109375000001</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Xevioso</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15663">http://planetarynames.wr.usgs.gov/Feature/15663</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-49.39999999999998,0.7</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Xochipilli</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 22.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15515">http://planetarynames.wr.usgs.gov/Feature/15515</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>93.20690917969073,56.65649414062712</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yalode</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 260.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15347">http://planetarynames.wr.usgs.gov/Feature/15347</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-67.51757812499892,-42.58300781250024</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yamor Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15533">http://planetarynames.wr.usgs.gov/Feature/15533</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.0,85.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ysolo Mons</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.0km<br/>
+            FeatureType: Mons, montes<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15372">http://planetarynames.wr.usgs.gov/Feature/15372</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.0,85.5</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zadeni</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 129.276993km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15348">http://planetarynames.wr.usgs.gov/Feature/15348</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>38.337890625000085,-70.35644531250011</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zatik</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Ceres<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15645">http://planetarynames.wr.usgs.gov/Feature/15645</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>114.0,69.9</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

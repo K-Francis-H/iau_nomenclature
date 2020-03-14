@@ -1,0 +1,24 @@
+
+
+
+
+
+Feature_Name,Target,Diameter,Center_Latitude,Center_Longitude,Coordinate_System,Approval_Status,Approval_Date,Origin,
+"Arcoona Regio","Itokawa",0.16,28,202,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Place name near the Hayabusa capsule recovery site, Woomera, in Australia.",
+"Catalina","Itokawa",0.02,-17,14,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Catalina Observatory, near Tucson, AZ, USA.",
+"Fuchinobe","Itokawa",0.04,34,269,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Place name in Sagamihara, Japan.",
+"Gando","Itokawa",0,-76,205,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Spanish launch facility on Gran Canaria.",
+"Hammaguira","Itokawa",0.03,-18,205,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","French launch site in the Sahara Desert, Algeria.",
+"Kamisunagawa","Itokawa",0.01,-28,45,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Town in Hokkaido, Japan, where a microgravity test facility is located.",
+"Kamoi","Itokawa",0.01,6,244,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Town in Yokohama, Japan, where a factory of NEC TOSHIBA Space Systems, Ltd. is located.",
+"Komaba","Itokawa",0.03,-10,102,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Place name in Tokyo, where the Institute of Space and Astronautical Science is located.",
+"Laurel","Itokawa",0.02,1,162,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","City in Maryland USA, where APL/JHU is located.",
+"LINEAR Regio","Itokawa",0.12,-40,232,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Lincoln Near Earth Asteroid Research program, discoverer of the asteroid Itokawa.",
+"Miyabaru","Itokawa",0.09,-40,244,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Radar site in the Uchinoura Space Center in Japan.",
+"MUSES-C Regio","Itokawa",0.3,-70,60,"Planetocentric  +East  0 - 360","Approved","2006-01-01 00:00:00.0","MUSES-C, the name of the Hayabusa spacecraft prior to launch.",
+"Ohsumi Regio","Itokawa",0.14,33,207,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Peninsula in Japan where the Uchiunoura Space Center is located.",
+"Sagamihara Regio","Itokawa",0.23,80,15,"Planetocentric  +East  0 - 360","Approved","2006-01-01 00:00:00.0","Town in Japan where the Institute of Space and Astronautical Science is located.",
+"San Marco","Itokawa",0,-28,319,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","An old oil platform near Kenya that served as a launch pad for Italian spacecraft.",
+"Uchinoura Regio","Itokawa",0.07,40,90,"Planetocentric  +East  0 - 360","Approved","2006-01-01 00:00:00.0","Town in Japan, launch site of the Hayabusa spacecraft.",
+"Yoshinobu Regio","Itokawa",0.16,-39,117,"Planetocentric  +East  0 - 360","Approved","2009-02-18 00:00:00.0","Launch site in the Tanegashima Space Center, Japan.",
+

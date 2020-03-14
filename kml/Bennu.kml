@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Aetos Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.00910000037km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15888">http://planetarynames.wr.usgs.gov/Feature/15888</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>150.36,3.46</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Amihan Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0329999998km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15887">http://planetarynames.wr.usgs.gov/Feature/15887</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-103.49000000000001,-17.96</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Benben Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0520000011km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15891">http://planetarynames.wr.usgs.gov/Feature/15891</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>127.59,-45.86</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gargoyle Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0179999992km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15889">http://planetarynames.wr.usgs.gov/Feature/15889</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>92.48,4.59</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Huginn Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0460000001km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15883">http://planetarynames.wr.usgs.gov/Feature/15883</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>43.25,-29.77</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Muninn Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0280000009km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15884">http://planetarynames.wr.usgs.gov/Feature/15884</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>48.68,-29.34</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ocypete Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0055999998km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15885">http://planetarynames.wr.usgs.gov/Feature/15885</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-31.75,25.09</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pouakai Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0105999997km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15895">http://planetarynames.wr.usgs.gov/Feature/15895</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>166.75,-40.45</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Roc Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0960000008km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15881">http://planetarynames.wr.usgs.gov/Feature/15881</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>25.36,-23.46</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Simurgh Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0399999991km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15882">http://planetarynames.wr.usgs.gov/Feature/15882</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>4.05,-25.32</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Strix Saxum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.00529999984km<br/>
+            FeatureType: Saxum, saxa<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15886">http://planetarynames.wr.usgs.gov/Feature/15886</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>88.26,13.4</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tlanuwa Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300999999km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Bennu<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/15890">http://planetarynames.wr.usgs.gov/Feature/15890</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-98.30000000000001,-37.86</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

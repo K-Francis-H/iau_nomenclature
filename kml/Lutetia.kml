@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Achaia Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14841">http://planetarynames.wr.usgs.gov/Feature/14841</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-154.0,28.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Baetica Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14842">http://planetarynames.wr.usgs.gov/Feature/14842</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-42.0,69.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bagacum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14817">http://planetarynames.wr.usgs.gov/Feature/14817</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>49.0,46.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Basilia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14818">http://planetarynames.wr.usgs.gov/Feature/14818</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.0,73.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bonna</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14819">http://planetarynames.wr.usgs.gov/Feature/14819</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>67.0,62.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Burdigala</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14820">http://planetarynames.wr.usgs.gov/Feature/14820</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-149.0,52.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Danuvius Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14838">http://planetarynames.wr.usgs.gov/Feature/14838</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-27.0,70.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Etruria Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14843">http://planetarynames.wr.usgs.gov/Feature/14843</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-78.0,19.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Florentia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.8999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14821">http://planetarynames.wr.usgs.gov/Feature/14821</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>137.0,23.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gallicum Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14839">http://planetarynames.wr.usgs.gov/Feature/14839</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-73.0,77.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gaudiaco</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.69999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14822">http://planetarynames.wr.usgs.gov/Feature/14822</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>5.0,58.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Genua</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14823">http://planetarynames.wr.usgs.gov/Feature/14823</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>117.0,11.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gerunda</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.69999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14824">http://planetarynames.wr.usgs.gov/Feature/14824</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>68.0,78.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Glana Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.80000019km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14851">http://planetarynames.wr.usgs.gov/Feature/14851</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>124.0,11.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Goldschmidt Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14844">http://planetarynames.wr.usgs.gov/Feature/14844</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,-65.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hiberus Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.8000002km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14836">http://planetarynames.wr.usgs.gov/Feature/14836</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>33.0,46.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lauriacum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14870">http://planetarynames.wr.usgs.gov/Feature/14870</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,37.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lugdunum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 17.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14825">http://planetarynames.wr.usgs.gov/Feature/14825</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-141.0,10.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Massilia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 61.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14826">http://planetarynames.wr.usgs.gov/Feature/14826</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>96.0,41.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Narbonensis Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14845">http://planetarynames.wr.usgs.gov/Feature/14845</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>101.0,34.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Nicaea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 21.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14827">http://planetarynames.wr.usgs.gov/Feature/14827</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-179.0,43.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Noricum Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14846">http://planetarynames.wr.usgs.gov/Feature/14846</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.0,41.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pannonia Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14847">http://planetarynames.wr.usgs.gov/Feature/14847</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>30.0,23.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Patavium</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 9.30000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14828">http://planetarynames.wr.usgs.gov/Feature/14828</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>52.0,31.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Raetia Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14848">http://planetarynames.wr.usgs.gov/Feature/14848</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-55.0,-20.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rhenus Rupes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 11.8000002km<br/>
+            FeatureType: Rupes, rupēs<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14852">http://planetarynames.wr.usgs.gov/Feature/14852</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-98.0,20.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Rhodanus Rimae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.8000002km<br/>
+            FeatureType: Rima, rimae<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14849">http://planetarynames.wr.usgs.gov/Feature/14849</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>39.0,53.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Roma</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14829">http://planetarynames.wr.usgs.gov/Feature/14829</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-117.0,13.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Salomacus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14831">http://planetarynames.wr.usgs.gov/Feature/14831</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>109.0,11.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Salona</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14830">http://planetarynames.wr.usgs.gov/Feature/14830</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>37.0,32.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sarnus Labes</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Labes, labēs<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14840">http://planetarynames.wr.usgs.gov/Feature/14840</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-75.0,63.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sequana Fossa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.9000001km<br/>
+            FeatureType: Fossa, fossae<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14837">http://planetarynames.wr.usgs.gov/Feature/14837</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>106.0,57.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Syracusae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14832">http://planetarynames.wr.usgs.gov/Feature/14832</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-32.0,39.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tiberis Rimae</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 27.3999996km<br/>
+            FeatureType: Rima, rimae<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14850">http://planetarynames.wr.usgs.gov/Feature/14850</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-131.0,33.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ticinum Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 8.5km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14835">http://planetarynames.wr.usgs.gov/Feature/14835</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>100.0,51.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Toletum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14833">http://planetarynames.wr.usgs.gov/Feature/14833</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>161.0,87.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Turicum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Lutetia<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14834">http://planetarynames.wr.usgs.gov/Feature/14834</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>158.0,20.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

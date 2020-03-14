@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Aachen</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1">http://planetarynames.wr.usgs.gov/Feature/1</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-60.89999999999998,9.199999999996821</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Baganur</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 16.3999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/553">http://planetarynames.wr.usgs.gov/Feature/553</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.4,14.600000000009489</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Benham</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/690">http://planetarynames.wr.usgs.gov/Feature/690</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>112.8,18.999999999997655</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Clackmannan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1225">http://planetarynames.wr.usgs.gov/Feature/1225</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>99.2,18.900000000007346</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Damodar</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 28.7000008km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1395">http://planetarynames.wr.usgs.gov/Feature/1395</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>96.2,72.99999999997496</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Enugu</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.9000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1807">http://planetarynames.wr.usgs.gov/Feature/1807</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-151.6,-15.30000000000477</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ishikari</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 29.2999992km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2730">http://planetarynames.wr.usgs.gov/Feature/2730</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>173.1,-66.20000000000661</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jerada</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2821">http://planetarynames.wr.usgs.gov/Feature/2821</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-177.3,42.100000000054045</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jixi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 19.8999996km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2830">http://planetarynames.wr.usgs.gov/Feature/2830</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>103.5,-12.299999999995105</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kalimantan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2897">http://planetarynames.wr.usgs.gov/Feature/2897</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-123.69999999999999,-7.700000000006807</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Karoo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 33.4000015km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2931">http://planetarynames.wr.usgs.gov/Feature/2931</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-98.39999999999998,33.50000000004037</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kuznetsk</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 28.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3173">http://planetarynames.wr.usgs.gov/Feature/3173</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-88.89999999999998,-45.90000000001509</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lorraine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3475">http://planetarynames.wr.usgs.gov/Feature/3475</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-142.5,48.09999999995552</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lublin</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 6.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3500">http://planetarynames.wr.usgs.gov/Feature/3500</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-156.8,55.30000000001376</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Maritsa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.4000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3714">http://planetarynames.wr.usgs.gov/Feature/3714</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-151.5,44.59999999996048</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Matanuska</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.9000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3748">http://planetarynames.wr.usgs.gov/Feature/3748</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>142.7,27.29999999999537</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mulgildie</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4065">http://planetarynames.wr.usgs.gov/Feature/4065</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.1,57.700000000022236</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Oaxaca</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 5.19999981km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4384">http://planetarynames.wr.usgs.gov/Feature/4384</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>173.7,38.70000000002943</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Otago</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.9000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4519">http://planetarynames.wr.usgs.gov/Feature/4519</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-164.5,23.69999999999029</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Quetta</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4898">http://planetarynames.wr.usgs.gov/Feature/4898</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-165.5,45.599999999994964</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Similkameen</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.4000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5539">http://planetarynames.wr.usgs.gov/Feature/5539</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-104.69999999999999,-13.499999999990292</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Teruel</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 7.5999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5934">http://planetarynames.wr.usgs.gov/Feature/5934</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-142.7,-28.09999999995375</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Zulia</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 12.3000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Mathilde<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6761">http://planetarynames.wr.usgs.gov/Feature/6761</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-30.899999999999977,-39.49999999999675</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

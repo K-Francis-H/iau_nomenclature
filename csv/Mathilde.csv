@@ -1,0 +1,30 @@
+
+
+
+
+
+Feature_Name,Target,Diameter,Center_Latitude,Center_Longitude,Coordinate_System,Approval_Status,Approval_Date,Origin,
+"Aachen","Mathilde",4.8,9.2,60.9,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","German coal basin.",
+"Baganur","Mathilde",16.4,14.6,191.6,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Mongolian coal basin.",
+"Benham","Mathilde",2.2,19,247.2,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Coal mine in Kentucky, USA.",
+"Clackmannan","Mathilde",2.8,18.9,260.8,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Scottish coal basin.",
+"Damodar","Mathilde",28.7,73,263.8,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Largest Indian coal basin.",
+"Enugu","Mathilde",5.9,-15.3,151.6,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Nigerian coal field.",
+"Ishikari","Mathilde",29.3,-66.2,186.9,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Largest Japanese coal field.",
+"Jerada","Mathilde",2.5,42.1,177.3,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Largest Moroccan coal basin.",
+"Jixi","Mathilde",19.9,-12.3,256.5,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Chinese coal basin.",
+"Kalimantan","Mathilde",2.7,-7.7,123.7,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Coal field on Borneo, Indonesia.",
+"Karoo","Mathilde",33.4,33.5,98.4,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","South African coal basin.",
+"Kuznetsk","Mathilde",28.5,-45.9,88.9,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Russian coal basin.",
+"Lorraine","Mathilde",4.1,48.1,142.5,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Largest French coal basin.",
+"Lublin","Mathilde",6.5,55.3,156.8,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Polish coal basin.",
+"Maritsa","Mathilde",2.4,44.6,151.5,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Bulgarian coal field.",
+"Matanuska","Mathilde",2.9,27.3,217.3,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Coal field in Alaska, USA.",
+"Mulgildie","Mathilde",2.5,57.7,176.1,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Australian coal basin.",
+"Oaxaca","Mathilde",5.2,38.7,186.3,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Mexican coal fields.",
+"Otago","Mathilde",7.9,23.7,164.5,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Largest New Zealand coal field.",
+"Quetta","Mathilde",3.2,45.6,165.5,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Pakistani coal field.",
+"Similkameen","Mathilde",3.4,-13.5,104.7,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Canadian coal field.",
+"Teruel","Mathilde",7.6,-28.1,142.7,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Spanish coal field.",
+"Zulia","Mathilde",12.3,-39.5,30.9,"Planetographic  +West  0 - 360","Approved","2000-01-01 00:00:00.0","Principal state in Venezuela in which coal is mined.",
+

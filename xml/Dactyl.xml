@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Acmon
+            
+          </name>
+        
+        
+        
+          <target>DACTYL</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.3</diameter>
+        
+        
+          <centerlatitude>-39</centerlatitude>
+          <centerlongitude>138</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1997-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>One of the original three Dactyls.</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Celmis
+            
+          </name>
+        
+        
+        
+          <target>DACTYL</target>
+          <system>ASTEROIDS</system>
+        
+        
+          <diameter>0.2</diameter>
+        
+        
+          <centerlatitude>-46</centerlatitude>
+          <centerlongitude>220</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetocentric, +East, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1997-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>One of the original three Dactyls.</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

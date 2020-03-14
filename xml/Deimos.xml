@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+  
+    <searchresults>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Swift
+            
+          </name>
+        
+        
+        
+          <target>DEIMOS</target>
+          <system>MARS</system>
+        
+        
+          <diameter>1</diameter>
+        
+        
+          <centerlatitude>12.5</centerlatitude>
+          <centerlongitude>358.2</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1973-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Jonathan; British writer (1667-1745).</origin>
+        
+        
+        
+      </feature>
+    
+      <feature>
+        
+        
+          <name>
+            
+              
+              Voltaire
+            
+          </name>
+        
+        
+        
+          <target>DEIMOS</target>
+          <system>MARS</system>
+        
+        
+          <diameter>1.9</diameter>
+        
+        
+          <centerlatitude>22</centerlatitude>
+          <centerlongitude>3.5</centerlongitude>
+        
+        
+        
+          
+          <coordinateSystem>Planetographic, +West, 0 - 360</coordinateSystem>
+        
+        
+        
+          <approvalstatus id="5">Adopted by IAU</approvalstatus>
+          <approvaldate>
+            
+              
+              
+                1973-01-01 00:00:00.0
+              
+              
+            
+          </approvaldate>
+        
+        
+        
+        
+          
+          <origin>Francios-Marie Arouet; French writer (1694-1778).</origin>
+        
+        
+        
+      </feature>
+    
+    </searchresults>
+  
+  
+

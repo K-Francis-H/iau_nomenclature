@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Castor</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Janus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1050">http://planetarynames.wr.usgs.gov/Feature/1050</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Idas</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Janus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2648">http://planetarynames.wr.usgs.gov/Feature/2648</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lynceus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Janus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3535">http://planetarynames.wr.usgs.gov/Feature/3535</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Phoibe</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Janus<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4708">http://planetarynames.wr.usgs.gov/Feature/4708</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>0.0,0.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

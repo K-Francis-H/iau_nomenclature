@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Arcoona Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.160999998km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14559">http://planetarynames.wr.usgs.gov/Feature/14559</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-158.0,28.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Catalina</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0209999997km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14553">http://planetarynames.wr.usgs.gov/Feature/14553</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>14.0,-17.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fuchinobe</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0370000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14549">http://planetarynames.wr.usgs.gov/Feature/14549</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-91.0,34.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gando</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.00200000009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14557">http://planetarynames.wr.usgs.gov/Feature/14557</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-155.0,-76.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hammaguira</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0280000009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14551">http://planetarynames.wr.usgs.gov/Feature/14551</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-155.0,-18.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kamisunagawa</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0130000003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14554">http://planetarynames.wr.usgs.gov/Feature/14554</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>45.0,-28.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kamoi</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.00800000038km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14555">http://planetarynames.wr.usgs.gov/Feature/14555</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.0,6.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Komaba</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0280000009km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14550">http://planetarynames.wr.usgs.gov/Feature/14550</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>102.0,-10.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Laurel</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0219999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14552">http://planetarynames.wr.usgs.gov/Feature/14552</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>162.0,1.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>LINEAR Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.122000001km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14561">http://planetarynames.wr.usgs.gov/Feature/14561</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-128.0,-40.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Miyabaru</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0879999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14548">http://planetarynames.wr.usgs.gov/Feature/14548</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-116.0,-40.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>MUSES-C Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.300000012km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14170">http://planetarynames.wr.usgs.gov/Feature/14170</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>60.0,-70.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Ohsumi Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.140000001km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14560">http://planetarynames.wr.usgs.gov/Feature/14560</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-153.0,33.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Sagamihara Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.230000004km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14171">http://planetarynames.wr.usgs.gov/Feature/14171</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>15.0,80.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>San Marco</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.00300000003km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14556">http://planetarynames.wr.usgs.gov/Feature/14556</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-41.0,-28.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Uchinoura Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0700000003km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14172">http://planetarynames.wr.usgs.gov/Feature/14172</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>90.0,40.0</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Yoshinobu Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.163000003km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Itokawa<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/14558">http://planetarynames.wr.usgs.gov/Feature/14558</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>117.0,-39.0</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

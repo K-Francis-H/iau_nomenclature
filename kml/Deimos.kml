@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Swift</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Deimos<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5789">http://planetarynames.wr.usgs.gov/Feature/5789</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>1.8,12.499999999997959</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Voltaire</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.89999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Deimos<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6431">http://planetarynames.wr.usgs.gov/Feature/6431</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-3.5,22.000000000031346</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>

@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" 
+
+
+
+
+
+>
+  
+  
+  <Document>
+   
+    <Placemark>
+      <name>Abelard</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/13">http://planetarynames.wr.usgs.gov/Feature/13</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.199999999999989,-3.499999999997982</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Aida</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.60000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/104">http://planetarynames.wr.usgs.gov/Feature/104</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.5,7.8999999999976325</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Avtandil</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/511">http://planetarynames.wr.usgs.gov/Feature/511</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>126.9,-22.50000000001286</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Bovary</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.800000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/845">http://planetarynames.wr.usgs.gov/Feature/845</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-27.30000000000001,-61.000000000035314</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Casanova</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.899999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1039">http://planetarynames.wr.usgs.gov/Feature/1039</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>124.0,46.60000000000719</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Catherine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1078">http://planetarynames.wr.usgs.gov/Feature/1078</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-171.1,9.100000000001156</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Charlois Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1156">http://planetarynames.wr.usgs.gov/Feature/1156</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>30.0,-15.99999999996018</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Cupid</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1349">http://planetarynames.wr.usgs.gov/Feature/1349</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>129.8,8.099999999995523</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Don Juan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1571">http://planetarynames.wr.usgs.gov/Feature/1571</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>3.3,29.499999999999602</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Don Quixote</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.899999976km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1572">http://planetarynames.wr.usgs.gov/Feature/1572</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>109.2,-57.69999999999202</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Dulcinea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.39999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1660">http://planetarynames.wr.usgs.gov/Feature/1660</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>87.1,-76.10000000001784</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Eurydice</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1876">http://planetarynames.wr.usgs.gov/Feature/1876</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-170.0,13.500000000036785</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Finsen Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/1960">http://planetarynames.wr.usgs.gov/Feature/1960</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>10.0,-48.00000000000333</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Fujitsubo</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2036">http://planetarynames.wr.usgs.gov/Feature/2036</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-62.69999999999999,-3.7000000000017366</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Galatea</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.39999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2064">http://planetarynames.wr.usgs.gov/Feature/2064</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>176.9,-10.199999999974482</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Gamba</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.29999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2084">http://planetarynames.wr.usgs.gov/Feature/2084</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-54.10000000000002,-20.600000000036964</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Genji</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.5km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2140">http://planetarynames.wr.usgs.gov/Feature/2140</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-88.60000000000002,-19.50000000002281</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Heathcliff</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2398">http://planetarynames.wr.usgs.gov/Feature/2398</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-167.9,7.400000000003005</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Himeros</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 10.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2508">http://planetarynames.wr.usgs.gov/Feature/2508</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>77.7,21.199999999963484</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hinks Dorsum</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Dorsum, dorsa<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2513">http://planetarynames.wr.usgs.gov/Feature/2513</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>42.0,42.000000000026205</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Hios</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.29999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2514">http://planetarynames.wr.usgs.gov/Feature/2514</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-130.9,-9.400000000000723</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Jahan</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2786">http://planetarynames.wr.usgs.gov/Feature/2786</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>66.5,74.19999999997836</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Kastytis</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/2950">http://planetarynames.wr.usgs.gov/Feature/2950</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-161.3,6.800000000001625</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Leander</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.39999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3317">http://planetarynames.wr.usgs.gov/Feature/3317</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>149.7,25.59999999996939</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Leylie</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.89999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3373">http://planetarynames.wr.usgs.gov/Feature/3373</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-23.5,-3.0000000000012017</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Lolita</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.79999995km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3460">http://planetarynames.wr.usgs.gov/Feature/3460</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>162.3,-35.1999999999827</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mahal</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3589">http://planetarynames.wr.usgs.gov/Feature/3589</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-170.0,79.3999999999916</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Majnoon</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/3599">http://planetarynames.wr.usgs.gov/Feature/3599</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-28.80000000000001,3.799999999996812</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Mélisande</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.0km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4090">http://planetarynames.wr.usgs.gov/Feature/4090</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>174.4,67.09999999996685</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Narcissus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.9000001km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4152">http://planetarynames.wr.usgs.gov/Feature/4152</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-7.100000000000023,18.19999999999491</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Orpheus</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.10000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4498">http://planetarynames.wr.usgs.gov/Feature/4498</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-176.7,25.59999999996939</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pao-yü</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.800000012km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4581">http://planetarynames.wr.usgs.gov/Feature/4581</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-105.6,-73.20000000004016</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pelléas</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4642">http://planetarynames.wr.usgs.gov/Feature/4642</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>138.7,63.100000000088734</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Psyche</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 4.80000019km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4857">http://planetarynames.wr.usgs.gov/Feature/4857</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-94.60000000000002,31.59999999997326</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Pygmalion</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.70000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4881">http://planetarynames.wr.usgs.gov/Feature/4881</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>168.9,-1.8000000000011365</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Radames</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.60000002km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/4915">http://planetarynames.wr.usgs.gov/Feature/4915</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-115.1,-5.199999999995738</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Selene</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 3.5999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5417">http://planetarynames.wr.usgs.gov/Feature/5417</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-12.5,-14.199999999981731</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tai-yü</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 1.39999998km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/5826">http://planetarynames.wr.usgs.gov/Feature/5826</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-126.1,-47.00000000002069</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Tutanekai</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.0999999km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6154">http://planetarynames.wr.usgs.gov/Feature/6154</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>-3.3000000000000114,56.399999999986896</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Valentine</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 2.20000005km<br/>
+            FeatureType: Crater, craters<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6279">http://planetarynames.wr.usgs.gov/Feature/6279</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>151.6,14.600000000009985</coordinates>
+      </Point>
+    </Placemark>
+   
+    <Placemark>
+      <name>Witt Regio</name>
+      <description>
+        <![CDATA[
+          <p>
+            Diameter: 0.0km<br/>
+            FeatureType: Regio, regiones<br/>
+            Target: Eros<br/>
+            More Info: <a href="http://planetarynames.wr.usgs.gov/Feature/6566">http://planetarynames.wr.usgs.gov/Feature/6566</a>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>12.0,18.00000000001197</coordinates>
+      </Point>
+    </Placemark>
+   
+  </Document>
+</kml>
